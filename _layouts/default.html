@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="container content">
+      <div class="masthead">
+        <ul class="nav-list">
+          {% for page in site.nav_list %}
+          <li><a href="{{ page[1] }}">{{ page[0] }}</a></li>
+          {% endfor %}
+        </ul>
+        <h2 class="masthead-title">
+          <a href="{{ site.baseurl }}" title="Home">{{ site.title }}</a>
+        </h2>
+      </div>
+
+      {{ content }}
+
+      <div class="footer">
+        <p>
+          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        </p>
+      </div>
+    </div>
+
+  </body>
+</html>

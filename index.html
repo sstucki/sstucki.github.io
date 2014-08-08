@@ -1,0 +1,47 @@
+---
+layout: default
+title: Home
+---
+
+<div class="page">
+  <img src="public/me.jpg" class="profile"/>
+  <h1 class="page-title"><a name="about">About</a></h1>
+
+  <p>I'm a PhD student at the
+  <a href="http://lamp.epfl.ch/">Programming Methods Laboratory
+  (LAMP)</a> at <a href="http://www.epfl.ch/">EPFL</a> under the
+  supervision of Professor <a
+  href="http://people.epfl.ch/martin.odersky">Martin Odersky</a>.</p>
+
+  <p>My main research interests are in programming languages, with a
+  particular focus on domain-specific languages, as well as formal
+  methods for scientific modeling.</p>
+
+  <p>I have also written a
+  <a href="https://github.com/sstucki/kappa-emacs">GNU/Emacs mode for
+  Kappa</a>.</p>
+
+  <h2>Contact</h2>
+  <ul>
+    <li><a href="http://people.epfl.ch/sandro.stucki">at EPFL</a></li>
+    <li><a href="http://github.com/sstucki">on GitHub</a></li>
+    <li><a href="http://ch.linkedin.com/pub/sandro-stucki/13/a94/8a3/">on LinkedIn</a></li>
+  </ul>
+</div>
+
+<div class="page">
+  <h1 class="page-title"><a name="publications">Publications</a></h1>
+  <ul>
+    {% for pub in site.categories.pubs %}
+    <li>
+      <a href="{{ pub.url }}">{{ pub.title }}</a>,
+      {{ pub.authors | array_to_sentence_string }}. {{ pub.howpublished }}.
+      <ul class="related-links">
+        {% for link in pub.links %}
+        <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

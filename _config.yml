@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Setup
+title:            Sandro Stucki
+url:              http://sstucki.github.io
+baseurl:          /
+blogurl:          /blog/
+author:
+  name:           Sandro Stucki
+  url:            https://github.com/sstucki
+  email:          sandro.stucki@gmail.com
+
+# Permalinks and pagination of publications and blog posts
+permalink:        pretty
+#paginate:         1
+#paginate_path:    /blog/page:num
+
+# Page navigation list
+nav_list:
+  About:          /#about
+  Publications:   /#publications
+#  Blog:           /blog/
+#  Archive:        /blog/archive/
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/sstucki/sstucki.github.io

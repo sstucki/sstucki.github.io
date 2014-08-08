@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="pub">
+  <h1 class="pub-title">
+    <a href="{{ page.url }}">
+      {{ page.title }}
+    </a>
+  </h1>
+  <span class="pub-meta">
+    {{ page.authors | array_to_sentence_string }},
+    {{ page.howpublished }}, {{ page.copynote }}.
+  </span>
+  {{ content }}
+
+  <h2>Links</h2>
+  <ul>
+    {% for link in page.links %}
+    <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
