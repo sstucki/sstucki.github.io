@@ -2,7 +2,7 @@
 
 This [GitHub pages](https://pages.github.com) repository contains the
 personal website of *Sandro Stucki*.  The page is based on
-[Poole](https://github.com/poole/poole) and uses
+[Poole](https://www.getpoole.com) and uses
 [Jekyll](http://jekyllrb.com), the static site generator.  It was
 inspired by a
 [blog post](http://joshualande.com/jekyll-github-pages-poole/) by
