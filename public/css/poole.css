@@ -54,7 +54,7 @@ html {
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -88,15 +88,15 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.25rem;
+  font-size: 1.5rem;
 }
 h3 {
   margin-top: 1.5rem;
-  font-size: 1rem;
+  font-size: 1.25rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -247,8 +247,8 @@ img {
 
 img.profile {
   float: right;
-  margin: 0 0 1rem 1rem;
-  max-width: 36%;
+  margin: 0rem 0 1rem 1rem;
+  max-width: 33%;
 }
 
 /* Tables */
@@ -303,7 +303,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
+  max-width: 42rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -407,6 +407,9 @@ tbody tr:nth-child(odd) th {
 }
 .related-links li {
   display: inline;
+}
+.related-links li + li::before {
+  content: " | ";
 }
 
 
