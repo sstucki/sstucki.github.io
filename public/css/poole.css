@@ -129,6 +129,10 @@ ul.nav-list li {
   display: inline;
   padding-left: .5rem;
 }
+ul.nav-list li + li::before {
+  content: " | ";
+  padding-right: .5rem;
+}
 
 
 dt {
