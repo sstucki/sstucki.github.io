@@ -8,14 +8,15 @@ authors:
   - Tiark Rompf
   - Martin Odersky
 howpublished:
-  "To appear in <em>Proceedings of the 2013 ACM SIGPLAN International
-  Conference on Object Oriented Programming Systems Languages &
-  Applications</em> (OOPSLA '14)"
+  "In <em>Proceedings of the 2014 ACM SIGPLAN International Conference
+  on Object Oriented Programming Systems Languages & Applications</em>
+  (OOPSLA '14)"
 copynote:
   'ACM, 2014'
-#links:
-#  DOI: http://dx.doi.org/10.1145/2660193.2660241
-#  BibTeX: /bib/JonnalageddaCSRO14oopsla.bib
+links:
+  PDF: http://infoscience.epfl.ch/record/203076/files/p637-jonnalagedda.pdf
+  DOI: http://dx.doi.org/10.1145/2660193.2660241
+  BibTeX: /bib/JonnalageddaCSRO14oopsla.bib
 ---
 
 ## Abstract

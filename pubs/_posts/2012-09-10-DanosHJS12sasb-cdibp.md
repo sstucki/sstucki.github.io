@@ -12,6 +12,8 @@ howpublished:
 copynote:
   'in ENTCS'
 links:
+  DOI: http://dx.doi.org/10.1016/j.entcs.2015.04.018
+  BibTeX: /bib/DanosHJS12sasb-cdibp.bib
   Preprint: http://lampwww.epfl.ch/~sstucki/papers/DanosHJS12sasb-cdibp.pdf
 ---
 

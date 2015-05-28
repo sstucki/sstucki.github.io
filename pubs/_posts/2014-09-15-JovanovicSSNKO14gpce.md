@@ -14,6 +14,7 @@ howpublished:
 copynote:
   'pp. 73--82, ACM, 2014'
 links:
+  PDF: http://infoscience.epfl.ch/record/203432/files/p73-jovanovic.pdf
   DOI: http://dx.doi.org/10.1145/2658761.2658771
   BibTeX: /bib/JovanovicSSNKO.bib
 ---

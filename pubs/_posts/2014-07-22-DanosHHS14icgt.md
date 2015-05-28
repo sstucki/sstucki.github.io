@@ -7,7 +7,7 @@ authors:
   - Ricardo Honorato-Zimmer
   - Sandro Stucki
 howpublished:
-  "In <em>Graph Transformation - 7th International Conference</em>
+  "In <em>Graph Transformation -- 7th International Conference</em>
   (ICGT '14)"
 copynote:
   'in LNCS, volume 8571, pp. 161--176, Springer, 2014'
