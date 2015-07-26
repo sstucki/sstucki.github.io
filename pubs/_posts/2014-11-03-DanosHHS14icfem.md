@@ -13,7 +13,7 @@ howpublished:
 copynote:
   'in LNCS, volume 8829, pp. 1--10, Springer, 2014'
 links:
-  Postprint: http://www.pps.univ-paris-diderot.fr/~danos/pdf/icfem.pdf
+  Postprint: https://infoscience.epfl.ch/record/210229/files/icfem.pdf
   DOI: http://dx.doi.org/10.1007/978-3-319-11737-9_1
   BibTeX: /bib/DanosHHS14icfem.bib
 ---
