@@ -1,6 +1,6 @@
 ---
 layout:  pub
-title:   'Fold-based fusion as a library: a generative programming pearl'
+title:   'Fold-Based Fusion as a Library: a Generative Programming Pearl'
 authors:
   - Manohar Jonnalagedda
   - Sandro Stucki
