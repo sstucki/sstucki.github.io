@@ -13,6 +13,7 @@ links:
   PDF: http://infoscience.epfl.ch/record/209021/files/p41-jonnalagedda.pdf
   DOI: http://doi.acm.org/10.1145/2774975.2774981
   BibTeX: /bib/JonnalageddaS15scala.bib
+  Artifact: https://github.com/manojo/staged-fold-fusion
 ---
 
 ## Abstract

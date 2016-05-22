@@ -14,6 +14,7 @@ links:
   PDF: http://infoscience.epfl.ch/record/197943/files/a11-stucki.pdf
   DOI: http://doi.acm.org/10.1145/2489837.2489848
   BibTeX: /bib/StuckiAJR13scala.bib
+  Artifact: https://github.com/sstucki/odds
 ---
 
 ## Abstract
