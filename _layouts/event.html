@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="post">
+  <h1 class="page-title">
+    <a href="{% if page.event-url.size > 0 %}{{ page.event-url }}{% else %}{{ page.url }}{% endif %}">
+      {{ page.title }}
+    </a>
+  </h1>
+  <span class="post-date">
+    {% if page.event-date.size > 0 %}{{ page.event-date }}{% else %}{{
+    page.date | date_to_long_string }}{% endif %}, {{ page.location }}.
+  </span>
+  {{ content }}
+
+  <h2>Links</h2>
+  <ul>
+    {% for link in page.links %}
+    <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,172 @@
+
+======================================================================
+                         Scala Symposium 2016
+
+                     co-located with SPLASH 2016
+                        Amsterdam, Netherlands
+                          30-31 October 2016
+
+                           CALL FOR PAPERS
+
+        http://conf.researchr.org/track/scala-2016/scala-2016
+======================================================================
+
+Scala is a general purpose programming language designed to express
+common programming patterns in a concise, elegant, and type-safe
+way. It smoothly integrates features of object-oriented and functional
+languages.
+
+The Scala Symposium is a forum for researchers and practitioners to
+share new ideas and results of interest to the Scala programming
+language community. We welcome a broad spectrum of research topics in
+many formats.
+
+Topics of Interest
+==================
+
+We welcome submissions on topics related to Scala, including (but not
+limited to):
+
+ * Language design and implementation -- language extensions,
+   optimization, and performance evaluation.
+ * Library design and implementation patterns for extending Scala --
+   stand-alone Scala libraries, embedded domain-specific languages,
+   combining language features, generic and meta-programming.
+ * Formal techniques for Scala-like programs -- formalizations of the
+   language, type system, and semantics, formalizing proposed language
+   extensions and variants, dependent object types, type and effect
+   systems.
+ * Concurrent and distributed programming -- libraries, frameworks,
+   language extensions, programming models, performance evaluation,
+   experimental results.
+ * Big data and machine learning libraries and applications using the
+   Scala programming language.
+ * Safety and reliability -- pluggable type systems, contracts, static
+   analysis and verification, runtime monitoring.
+ * Interoperability with other languages and runtimes, such as
+   JavaScript, Java 8 (lambdas), Graal and others.
+ * Tools -- development environments, debuggers, refactoring tools,
+   testing frameworks.
+ * Case studies, experience reports, and pearls.
+
+Important dates
+===============
+
+ * Abstract submission: July 17th 2016
+ * Paper submission: July 25th 2016
+ * Paper notification: September 5th 2016
+ * Camera ready: September 13th 2016
+
+Submission Format
+=================
+
+To accommodate the needs of researchers and practitioners as well as
+beginners and experts alike, we accept submissions in several formats:
+
+ * Full papers (10 pages)
+ * Short papers (4 pages)
+ * Tool papers (4 pages)
+ * Student Talks (abstract)
+ * Open Source Talks (abstract)
+
+Details for each format are given below.
+
+Please note that at least one author of each accepted contribution
+must attend the symposium and present the work. In the case of tool
+demonstration papers, a live demonstration of the described tool is
+expected.
+
+Full and Short Papers
+=====================
+
+Full and Short papers should describe novel ideas, experimental
+results, or projects related to Scala. In order to encourage lively
+discussion, submitted papers may describe work in progress. All papers
+will be judged on a combination of correctness, significance, novelty,
+clarity, and interest to the community.
+
+In general, papers should explain their original contributions,
+identifying what has been accomplished, explaining why it is
+significant, and relating it to previous work (also for other
+languages where appropriate).
+
+The submissions should follow the ACM SIGPLAN guidelines
+(http://www.sigplan.org/Resources/Author/) and use a 10pt
+font. Accepted full and short papers will be published in the
+proceedings and will be disseminated on the ACM Digital Library.
+
+Tool Papers
+===========
+
+Tool papers need not necessarily report original research results;
+they may report practical experience that will be useful to others,
+new Scala idioms, or programming pearls. In all cases, such a paper
+must make a contribution which is of interest to the Scala community,
+or from which other members of the Scala community can benefit.
+
+Student Talks
+=============
+
+In addition to regular papers and tool demos, we also solicit short
+student talks by bachelor/master/PhD students. A student talk is not
+accompanied by paper (it is sufficient to submit a short abstract of
+the talk in plain text). Student talks are about 5-10 minutes long,
+presenting ongoing or completed research related to Scala.
+
+Open Source Talks
+=================
+
+We will accept a limited number of short talks about open-source
+projects using Scala presented by contributors. An open-source talk is
+not accompanied by a paper (it is sufficient to submit a short
+abstract of the talk in plain text). Open-source talks are 10 minutes
+long, presenting an open-source project that would be of interest to
+the Scala community.
+
+Submission Website
+==================
+
+The submission will be managed through HotCRP: https://scala16.hotcrp.com/
+
+For questions and additional clarifications, please contact the
+conference organizers.
+
+Keynote Speakers
+================
+
+We are delighted to have two excellent keynote speakers this year:
+
+ * Laurence Tratt, King's College London
+ * Jan Vitek, Northeastern University
+
+Program Committee
+=================
+
+ * Nada Amin, EPFL
+ * Shigeru Chiba, University of Tokyo
+ * Eva Darulova, MPI-SWS
+ * Sebastien Doeraene, EPFL
+ * Sebastian Erdweg, TU Delft
+ * Philipp Haller, KTH
+ * Ricardo Honorato-Zimmer, University of Edinburgh
+ * Cay Horstmann, San Jose State University
+ * Lars Hupel, TUM
+ * Vojin Jovanovic, Oracle Labs
+ * Oleg Kiselyov, Tohoku University
+ * Doug Lea, SUNY Oswego
+ * Erik Meijer, Applied Duality, Inc.
+ * Heather Miller, EPFL
+ * Nate Nystrom, University of Lugano
+ * Klaus Ostermann, University of Tübingen
+ * Ilya Sergey, UCL
+ * Mirko Stocker, HSR
+ * Niki Vazou, UCSD
+ * Tijs van der Storm, CWI
+
+Organizers
+==========
+
+ * Aggelos Biboudis, University of Athens
+ * Manohar Jonnalagedda, EPFL
+ * Sandro Stucki, EPFL
+ * Vlad Ureche, EPFL
