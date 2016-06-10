@@ -55,7 +55,7 @@ Important dates
  * Abstract submission: July 17th 2016
  * Paper submission: July 25th 2016
  * Paper notification: September 5th 2016
- * Camera ready: September 13th 2016
+ * Camera ready: September 23rd 2016
 
 Submission Format
 =================
