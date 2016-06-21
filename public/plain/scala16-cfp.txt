@@ -177,7 +177,7 @@ Sponsors
 ========
 
 We thank our sponsor Lightbend for supporting some of the talented
-student attendees of Scala'16.
+student attendees of the Scala Symposium 2016.
 
 Links
 =====
