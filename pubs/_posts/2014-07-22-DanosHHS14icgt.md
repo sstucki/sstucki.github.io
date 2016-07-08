@@ -12,6 +12,7 @@ howpublished:
 copynote:
   'in LNCS, volume 8571, pp. 161--176, Springer, 2014'
 links:
+  Preprint: http://homepages.inf.ed.ac.uk/s1066652/papers/revsqpo.pdf
   DOI: http://dx.doi.org/10.1007/978-3-319-09108-2_11
   BibTeX: /bib/DanosHHS14icgt.bib
 ---
