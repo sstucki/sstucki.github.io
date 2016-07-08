@@ -12,7 +12,7 @@ author:
   url:            https://github.com/sstucki
   email:          sandro.stucki@gmail.com
 
-# Permalinks and pagination of publications and blog posts
+# Permalinks and pagination of events, publications and blog posts
 permalink:        pretty
 #paginate:         1
 #paginate_path:    /blog/page:num
@@ -21,6 +21,7 @@ permalink:        pretty
 nav_list:
   About:          /#about
   Publications:   /#publications
+  Events:         /#events
 #  Blog:           /blog/
 #  Archive:        /blog/archive/
 
