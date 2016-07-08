@@ -6,7 +6,7 @@ authors:
   - Sandro Stucki
 howpublished:
   "In <em>Proceedings of the 6th ACM SIGPLAN Symposium on Scala</em>
-  (SCALA '15)"
+  (Scala '15)"
 copynote:
   'ACM, 2015'
 links:
