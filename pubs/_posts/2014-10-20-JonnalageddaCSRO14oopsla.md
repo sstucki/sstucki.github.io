@@ -12,7 +12,7 @@ howpublished:
   on Object Oriented Programming Systems Languages & Applications</em>
   (OOPSLA '14)"
 copynote:
-  'ACM, 2014'
+  'pp. 637&ndash;653, ACM, 2014'
 links:
   PDF: http://infoscience.epfl.ch/record/203076/files/p637-jonnalagedda.pdf
   DOI: http://dx.doi.org/10.1145/2660193.2660241

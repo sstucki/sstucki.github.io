@@ -10,7 +10,7 @@ authors:
   - Sandro Stucki
 howpublished: "In <em>Proceedings of the ACM on Programming Languages</em>, 2(POPL)"
 copynote:
-  'pp. 42:1--42:30, ACM, 2018'
+  'pp. 42:1&ndash;42:30, ACM, 2018'
 links:
   Preprint: https://infoscience.epfl.ch/record/229878
   DOI: http://dx.doi.org/10.1145/3158130

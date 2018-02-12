@@ -8,7 +8,7 @@ howpublished:
   "In <em>Proceedings of the 6th ACM SIGPLAN Symposium on Scala</em>
   (Scala '15)"
 copynote:
-  'ACM, 2015'
+  'pp. 41&ndash;50, ACM, 2015'
 links:
   PDF: http://infoscience.epfl.ch/record/209021/files/p41-jonnalagedda.pdf
   DOI: http://doi.acm.org/10.1145/2774975.2774981

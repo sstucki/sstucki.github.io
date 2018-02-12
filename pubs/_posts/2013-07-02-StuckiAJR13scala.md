@@ -9,7 +9,7 @@ authors:
 howpublished:
   "In <em>Proceedings of the 4th Workshop on Scala</em> (Scala '13)"
 copynote:
-  "pp. 11:1--11:9, ACM, 2013"
+  "pp. 11:1&ndash;11:9, ACM, 2013"
 links:
   PDF: http://infoscience.epfl.ch/record/197943/files/a11-stucki.pdf
   DOI: http://doi.acm.org/10.1145/2489837.2489848

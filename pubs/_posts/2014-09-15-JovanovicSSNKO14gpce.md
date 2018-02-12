@@ -12,7 +12,7 @@ howpublished:
   "In <em>Proceedings of the 2014 International Conference on
   Generative Programming: Concepts and Experiences</em> (GPCE '14)"
 copynote:
-  'pp. 73--82, ACM, 2014'
+  'pp. 73&ndash;82, ACM, 2014'
 links:
   PDF: http://infoscience.epfl.ch/record/203432/files/p73-jovanovic.pdf
   DOI: http://dx.doi.org/10.1145/2658761.2658771

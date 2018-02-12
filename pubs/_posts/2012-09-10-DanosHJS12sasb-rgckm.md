@@ -10,7 +10,7 @@ howpublished:
   "To appear in <em>Proceedings of the 3rd International Workshop on
   Static Analysis and Systems Biology</em> (SASB '12)"
 copynote:
-  'in ENTCS'
+  'pp. 23&ndash;46, ENTCS, volume 313, Elsevier, 2015'
 links:
   DOI: http://dx.doi.org/10.1016/j.entcs.2015.04.017
   BibTeX: /bib/DanosHJS12sasb-rgckm.bib

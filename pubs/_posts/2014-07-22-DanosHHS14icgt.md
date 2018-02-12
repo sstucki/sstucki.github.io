@@ -10,9 +10,9 @@ howpublished:
   "In <em>Graph Transformation -- 7th International Conference</em>
   (ICGT '14)"
 copynote:
-  'in LNCS, volume 8571, pp. 161--176, Springer, 2014'
+  'in LNCS, volume 8571, pp. 161&ndash;176, Springer, 2014'
 links:
-  Preprint: http://www.research.ed.ac.uk/portal/en/publications/reversible-sesquipushout-rewriting(bc853cc5-9eb5-4eec-bb63-8266e3745d11).html
+  Preprint: https://infoscience.epfl.ch/record/252994/files/icgt14.pdf
   DOI: http://dx.doi.org/10.1007/978-3-319-09108-2_11
   BibTeX: /bib/DanosHHS14icgt.bib
 ---
