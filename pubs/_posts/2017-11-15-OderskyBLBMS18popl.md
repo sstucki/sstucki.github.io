@@ -8,7 +8,7 @@ authors:
   - Aggelos Biboudis
   - Heather Miller
   - Sandro Stucki
-howpublished: "In <em>Proceedings of the 45th ACM SIGPLAN Symposium on Principles of Programming Languages</em> (POPL '18)"
+howpublished: "In <em>Proceedings of the ACM on Programming Languages</em>, 2(POPL)"
 copynote:
   'pp. 42:1--42:30, ACM, 2018'
 links:
