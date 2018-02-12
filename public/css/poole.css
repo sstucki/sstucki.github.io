@@ -134,6 +134,13 @@ ul.nav-list li + li::before {
   padding-right: .5rem;
 }
 
+/* Two-column, contact details lists */
+ul.contact {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
 
 dt {
   font-weight: bold;
