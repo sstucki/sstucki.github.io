@@ -12,7 +12,7 @@ howpublished:
 copynote:
   "Grenoble, June 5, 2015, part of  DisCoTec '15"
 links:
-  Preprint: http://webconf.inrialpes.fr/wp-content/uploads/sites/9/2015/06/memo2015-preproc.pdf#page=37
+  Workshop pre-proceedings: http://users.dimi.uniud.it/~marino.miculan/Papers/MeMo15-preproc.pdf
   BibTeX: /bib/DanosHHS15memo.bib
   Artifact: https://github.com/rhz/graph-rewriting
 ---
