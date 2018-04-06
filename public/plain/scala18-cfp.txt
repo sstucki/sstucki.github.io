@@ -1,0 +1,159 @@
+****************************************************************************
+Scala'18
+Call for Papers
+9th ACM SIGPLAN Symposium on Scala, 2018
+27th-28th of September, 2018
+St. Louis Missouri, United States
+https://conf.researchr.org/track/scala-2018/scala-2018-papers
+****************************************************************************
+
+Scala is a general purpose programming language designed to express
+common programming patterns in a concise, elegant, and type-safe way.
+It smoothly integrates features of object-oriented and functional
+languages.
+
+The Scala Symposium is the leading forum for researchers and
+practitioners related to the Scala programming language. We welcome a
+broad spectrum of research topics and support many submission formats
+for industry and academia alike.
+
+This year’s Scala Symposium is co-located with ICFP 2018 and Strange
+Loop 2018.
+
+We seek submissions on all topics related to Scala, including (but not
+limited to):
+
+* Language design and implementation – language extensions,
+optimization, and performance evaluation.
+* Library design and implementation patterns for extending Scala –
+stand-alone Scala libraries, embedded domain-specific languages,
+combining language features, generic and meta-programming.
+* Formal techniques for Scala-like programs – formalizations of the
+language, type system, and semantics, formalizing proposed language
+extensions and variants, dependent object types, type and effect
+systems.
+* Concurrent and distributed programming – libraries, frameworks,
+language extensions, programming models, performance evaluation,
+experimental results.
+* Big data and machine learning libraries and applications using the
+Scala programming language.
+* Safety and reliability – pluggable type systems, contracts, static
+analysis and verification, runtime monitoring.
+* Interoperability with other languages and runtimes, such as
+JavaScript, Java 8 (lambdas), Graal and others.
+* Tools – development environments, debuggers, refactoring tools,
+testing frameworks.
+* Case studies, experience reports, and pearls.
+
+Important dates:
+
+* Paper submission June 1st, 2018
+* Paper notification: July 13th, 2018
+* Student talk submission: Aug 10th, 2018
+* Camera ready: Aug 3rd, 2018
+* Student talk notification: Aug 31st, 2018
+
+All deadlines are at the end of the day, “Anywhere on Earth” (AoE).
+
+Submission Format:
+
+To accommodate the needs of researchers and practitioners, as well as
+beginners and experts alike, we seek several kinds of submissions, all
+in acmart/sigplan style, 10pt font.
+
+* Full papers (at most 10 pages, excluding bibliography)
+* Short papers (at most 4 pages, excluding bibliography)
+* Tool papers (at most 4 pages, excluding bibliography)
+* Student talks (short abstract only, in plain text)
+
+Accepted papers (either full papers, short ones or tool papers, but
+not student talks) will be published in the ACM Digital Library.
+Detailed information for each kind of submission is given below.
+Formatting requirements are detailed in Instructions for Authors.
+
+Please note that at least one author of each accepted contribution
+must attend the symposium and present the work. In the case of tool
+demonstration papers, a live demonstration of the described tool is
+expected.
+
+Full and Short Papers:
+
+Full and short papers should describe novel ideas, experimental
+results, or projects related to the Scala language. In order to
+encourage lively discussion, submitted papers may describe work in
+progress. Additionally, short papers may present problems and raise
+research questions interesting for the Scala language community. All
+papers will be judged on a combination of correctness, significance,
+novelty, clarity, and interest to the community.
+
+In general, papers should explain their original contributions,
+identifying what has been accomplished, explaining why it is
+significant, and relating it to previous work (also for other
+languages where appropriate).
+
+Tool Papers:
+
+Tool papers need not necessarily report original research results;
+they may describe a tool of interest, report practical experience that
+will be useful to others, new Scala idioms, or programming pearls. In
+all cases, such a paper must make a contribution which is of interest
+to the Scala community, or from which other members of the Scala
+community can benefit.
+
+Where appropriate, authors are encouraged to include a link to the
+tool’s website. For inspiration, you might consider advice in
+https://conf.researchr.org/track/POPL-2016/pepm-2016-main#Tool-Paper-Advice,
+which we however treat as non-binding. In case of doubts, please
+contact the program chairs.
+
+Student Talks:
+
+In addition to regular papers and tool demos, we also solicit short
+student talks by bachelor/master/PhD students. A student talk is not
+accompanied by paper (it is sufficient to submit a short abstract of
+the talk in plain text). Student talks are about 5-10 minutes long,
+presenting ongoing or completed research related to Scala. In previous
+years, each student with an accepted student talk received a grant
+(donated by our sponsors) covering registration and/or travel costs.
+
+Open Source Talks:
+
+We will also accept a limited number of short talks about open-source
+projects using Scala presented by contributors. An open-source talk is
+not accompanied by a paper (it is sufficient to submit a short
+abstract of the talk in plain text). Open-source talks are about ~10
+minutes long and about topics of relevance to the symposium, for
+instance (but not only) presenting or announcing an open-source
+project that would be of interest to the Scala community.
+
+Organizing Committee:
+
+* (General Chair) Sebastian Erdweg (TU Delft, Netherlands)
+* (PC Chair) Bruno C. d. S. Oliveira (University of Hong Kong, Hong Kong)
+* (Sponsorship Chair) Jonathan Immanuel Brachthauser
+  (University of Tubigen, Germany)
+
+Program Committee:
+
+* Nada Amin (Cambridge University, UK) 
+* Franck Cassez (Macquarie University, Australia)
+* Atsushi Igarashi (Kyoto University, Japan)
+* Jonathan Immanuel Brachthäuser  (Universität Tübingen, Germany) 
+* Ravichandhran Kandhadai Madhavan   (EPFL, Switzerland)
+* Heather Miller (Northeastern University, US)
+* Adriaan Moors (Lightbend, US)
+* Klaus Ostermann (Universität Tübingen, Germany)
+* Aleksandar Prokopec (Oracle Labs, US)
+* Sukyoung Ryu (KAIST, South Korea)
+* Marco Servetto  (Victoria University of Wellington, New Zealand)
+* Philippe Suter (Two Sigma, US)
+* Ross Tate (Cornell, US)
+* Tijs van der Storm (CWI, Netherlands)
+* Mirko Viroli (Bologna University, Italy)  
+* Damien Zufferey (MPI SWS, Germany)
+
+Submission Website:
+
+The submission will be managed through HotCRP: https://scala18.hotcrp.com/
+
+For questions and additional clarifications, please contact the conference organizers.
