@@ -7,7 +7,7 @@ authors:
   - Sebastián Jaramillo-Riveri
   - Sandro Stucki
 howpublished:
-  "To appear in <em>Proceedings of the 3rd International Workshop on
+  "In <em>Proceedings of the 3rd International Workshop on
   Static Analysis and Systems Biology</em> (SASB '12)"
 copynote:
   'pp. 23&ndash;46, ENTCS, volume 313, Elsevier, 2015'

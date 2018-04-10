@@ -5,7 +5,7 @@ authors:
   - Aggelos Biboudis
   - Manohar Jonnalagedda
   - Sandro Stucki
-  - Vlad Ureche (Eds.)
+  - Vlad Ureche (editors)
 howpublished: "Colocated with SPLASH'16 in Amsterdam, the Netherlands, 30 &ndash; 31 October, 2016"
 copynote: 'ACM, New York, NY, USA, 2016'
 links:
