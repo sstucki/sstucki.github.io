@@ -158,3 +158,10 @@ The submission will be managed through HotCRP: https://scala18.hotcrp.com/
 
 For questions and additional clarifications, please contact the
 conference organizers.
+
+Links:
+
+ * Symposium homepage: https://conf.researchr.org/home/scala-2018/
+ * Submissions: https://scala18.hotcrp.com/
+ * ICFP 2018: https://icfp18.sigplan.org/
+ * Updates on Twitter: https://twitter.com/scala_symposium
