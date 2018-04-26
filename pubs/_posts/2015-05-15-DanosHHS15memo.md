@@ -10,7 +10,7 @@ howpublished:
   "In <em>2nd International Workshop on Meta Models for Process
   Languages</em> (MeMo '15)"
 copynote:
-  "Grenoble, June 5, 2015, part of  DisCoTec '15"
+  "pp. 33&ndash;43, Grenoble, June 5, 2015, part of  DisCoTec '15"
 links:
   Workshop pre-proceedings: http://users.dimi.uniud.it/~marino.miculan/Papers/MeMo15-preproc.pdf
   BibTeX: /bib/DanosHHS15memo.bib
