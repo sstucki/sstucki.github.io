@@ -18,14 +18,14 @@ title: Home
   domain-specific languages, as well as formal methods for scientific
   modeling.</p>
 
-  <p>I am participating in the ongoing effort to
-  <a href="http://scala-lang.org/blog/2016/02/03/essence-of-scala.html">
-  formalize Scala's type system</a>.
-
-  I like to mechanize proofs in
-  <a href="https://github.com/agda/agda">Agda</a>, especially
-  <a href="https://github.com/sstucki/pts-agda">type soundness
-  proofs</a>.
+  <p>Until recently, I spent my time pondering the <a
+  href="http://scala-lang.org/blog/2016/02/03/essence-of-scala.html">type
+  safety of Scala</a> and <a
+  href="https://github.com/sstucki/f-omega-int-agda">related type
+  systems</a>.  These days, I’m busy applying formal methods and type
+  theory to problems in privacy and security, and hacking <a
+  href="https://github.com/sstucki/pts-agda">type soundness proofs</a>
+  in <a href="https://github.com/agda/agda">Agda</a>.
 
   I'm interested in the design of domain-specific languages for
   modeling <a href="https://github.com/sstucki/odds">probabilistic</a>
@@ -62,6 +62,21 @@ title: Home
         <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
         {% endfor %}
       </ul>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="page">
+  <h1 class="page-title"><a name="teaching">Teaching</a></h1>
+  <p>I am currently teaching two courses at Chalmers/Gothenburg university:</p>
+  <ul>
+    {% for course in site.data.teaching %}
+    <li>
+      <a href="{{ course.url }}" target="blank">
+        {% if course.code %} {{ course.code }} &ndash; {% endif %}
+        {{ course.name }}</a>, {{ course.term }}
+      at {{ course.inst }}.
     </li>
     {% endfor %}
   </ul>

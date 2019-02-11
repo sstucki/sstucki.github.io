@@ -1,0 +1,13 @@
+- name: Principles of Concurrent Programming
+  code: TDA384/DIT391
+  term: spring 2019, SP3
+  end-date: 2019-03-20
+  url: http://www.cse.chalmers.se/edu/year/2018/course/TDA384_LP3/
+  inst: Chalmers/Gothenburg University
+
+- name: Types and programming languages (aka the Initial Types Club)
+#  code: ITC
+  term: spring 2019
+  end-date: 2019-06-09
+  url: https://github.com/InitialTypes/Club/wiki
+  inst: Chalmers/Gothenburg University
