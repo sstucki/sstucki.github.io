@@ -1,0 +1,182 @@
+****************************************************************************
+Scala'19
+Call for Papers
+Tenth ACM SIGPLAN Symposium on Scala, 2019
+https://2019.ecoop.org/home/scala-2019
+London, UK
+July 17, 2019
+****************************************************************************
+
+**NEW** Paper Submission Deadline - April 16, 2019
+
+Scala is a general purpose programming language designed to express
+common programming patterns in a concise, elegant, and type-safe
+way. It smoothly integrates features of object-oriented and functional
+languages.
+
+The Scala Symposium (https://2019.ecoop.org/home/scala-2019) is the
+leading forum for researchers and practitioners related to the Scala
+programming language. We welcome a broad spectrum of research topics
+and support many submission formats for industry and academia alike.
+
+This year’s Scala Symposium is co-located with ECOOP 2019
+(https://2019.ecoop.org) in London, UK.
+
+# Topics of Interest #
+
+We seek submissions on all topics related to Scala, including (but not
+limited to):
+
+ * Language design and implementation – language extensions,
+   optimization, and performance evaluation.
+ * Library design and implementation patterns for extending Scala –
+   stand-alone Scala libraries, embedded domain-specific languages,
+   combining language features, generic and meta-programming.
+ * Formal techniques for Scala-like programs – formalizations of the
+   language, type system, and semantics, formalizing proposed language
+   extensions and variants, dependent object types, type and effect
+   systems.
+ * Concurrent and distributed programming – libraries, frameworks,
+   language extensions, programming models, performance evaluation,
+   experimental results.
+ * Big data and machine learning libraries and applications using the
+   Scala programming language.
+ * Safety and reliability – pluggable type systems, contracts, static
+   analysis and verification, runtime monitoring.
+ * Interoperability with other languages and runtimes, such as
+   JavaScript, Java 8 (lambdas), Graal and others.
+ * Tools – development environments, debuggers, refactoring tools,
+   testing frameworks.
+ * Case studies, experience reports, and pearls.
+
+Do not hesitate to contact the Program Chair (nate.nystrom@usi.ch) if
+you are unsure whether a particular topic falls within the scope of
+Scala 2019.
+
+# Important dates #
+
+ * Paper submission: April 16, 2019 **EXTENDED**
+ * Paper notification: May 24, 2019
+ * Student talk submission: May 31, 2019
+ * Student talk notification: June 14, 2019
+ * Camera ready: June 7, 2019
+ * Scala Symposium 2019: July 17, 2019
+
+All deadlines are at the end of the day, “Anywhere on Earth” (AoE).
+
+# Submission Format #
+
+To accommodate the needs of researchers and practitioners, as well as
+beginners and experts alike, we seek several kinds of submissions.
+
+ * Full papers (at most 10 pages, excluding bibliography)
+ * Short papers (at most 4 pages, excluding bibliography)
+ * Tool papers (at most 4 pages, excluding bibliography)
+ * Student talks (short abstract only, in plain text)
+ * Open-source talks (short abstract only, in plain text)
+
+The Scala Symposium uses a lightweight double-blind reviewing process,
+so we ask that research papers, both full and short, be
+anonymized. Tools papers and talks proposals need not be anonymized.
+Authors should omit their names from their submissions, and should
+avoid revealing their identity through citation.
+
+Accepted papers (either full papers, short ones or tool papers, but
+not talks) will be published in the ACM Digital Library. Detailed
+information for each kind of submission is given below. Submissions
+should be in acmart/sigplan style, 10pt font. Formatting requirements
+are detailed on the SIGPLAN Author Information page
+(https://www.sigplan.org/Resources/Author).
+
+Scala 2019 submissions must conform to the ACM Policy on Prior
+Publication and Simultaneous Submissions and to the SIGPLAN
+Republication Policy.
+
+Please note that at least one author of each accepted contribution
+must attend the symposium and present the work. In the case of tool
+demonstration papers, a live demonstration of the described tool is
+expected.
+
+# Full and Short Papers #
+
+Full and short papers should describe novel ideas, experimental
+results, or projects related to the Scala language. In order to
+encourage lively discussion, submitted papers may describe work in
+progress. Additionally, short papers may present problems and raise
+research questions interesting for the Scala language community. All
+papers will be judged on a combination of correctness, significance,
+novelty, clarity, and interest to the community.
+
+In general, papers should explain their original contributions,
+identifying what has been accomplished, explaining why it is
+significant, and relating it to previous work (also for other
+languages where appropriate).
+
+# Tool Papers #
+
+Tool papers need not necessarily report original research results;
+they may describe a tool of interest, report practical experience that
+will be useful to others, new Scala idioms, or programming pearls. In
+all cases, such a paper must make a contribution which is of interest
+to the Scala community, or from which other members of the Scala
+community can benefit.
+
+Where appropriate, authors are encouraged to include a link to the
+tool’s website. For inspiration, you might consider advice in
+https://conf.researchr.org/track/POPL-2016/pepm-2016-main#Tool-Paper-Advice,
+which we however treat as non-binding. In case of doubts, please
+contact the program chair.
+
+# Student Talks #
+
+In addition to regular papers and tool demos, we also solicit short
+student talks by bachelor/master/PhD students. A student talk is not
+accompanied by paper (it is sufficient to submit a short abstract of
+the talk in plain text). Student talks are about 5-10 minutes long,
+presenting ongoing or completed research related to Scala. In previous
+years, each student with an accepted student talk received a grant
+(donated by our sponsors) covering registration and/or travel costs.
+
+# Open-Source Talks #
+
+We will also accept a limited number of short talks about open-source
+projects using Scala presented by contributors. An open-source talk is
+not accompanied by a paper (it is sufficient to submit a short
+abstract of the talk in plain text). Open-source talks are about 10
+minutes long and should be about topics relevant to the
+symposium. They may, for instance, present or announce an open-source
+project that would be of interest to the Scala community.
+
+# Organizing Committee #
+
+ * (General Chair) Sukyoung Ryu (KAIST, South Korea)
+ * (PC Chair) Nathaniel Nystrom (USI, Switzerland)
+ * (Sponsorship Chair) Jonathan Immanuel Brachthäuser (University of
+   Tübingen, Germany)
+
+# Program Committee #
+
+ * Aggelos Biboudis - EPFL, Switzerland
+ * Edwin Brady - University of St. Andrews, UK
+ * Franck Cassez - Macquarie University, Australia
+ * Wolfgang De Meuter - Vrije Universiteit Brussel, Belgium
+ * Sebastien Doeraene - EPFL, Switzerland
+ * Edward Kmett - Machine Intelligence Research Institute, USA
+ * Doug Lea - SUNY Oswego, USA
+ * Ana Milanova - Rensselaer Polytechnic Institute, USA
+ * Ulf Norell - University of Gothenburg, Sweden
+ * Nate Nystrom - Università della Svizzera italiana, Switzerland (chair)
+ * Miles Sabin - Underscore.io, UK
+ * Guido Salvaneschi - Technische Universität Darmstadt, Germany
+ * Marco Servetto - Victoria University of Wellington, New Zealand
+ * Daniel Spiewak - SlamData, USA
+ * Mirko Viroli - University of Bologna, Italy
+
+# Submission Website #
+
+The submission will be managed through HotCRP: https://scala19.hotcrp.com.
+
+For questions and additional clarifications, please contact the
+conference organizers.
+
+
