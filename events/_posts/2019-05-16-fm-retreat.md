@@ -3,7 +3,7 @@ layout:     indep-event
 title:      'Formal Methods Division Retreat &ndash; Lysekil 2019'
 short:      "FM Retreat '19"
 event-date: '23 &amp; 24 May 2019'
-event-url:  http://cse.chalmers.se/~sstucki/fm-retreat-2019/
+event-url:  http://www.cse.chalmers.se/~sandros/fm-retreat-2019/
 location:   'at Strandflickornas Havshotell in Lysekil, Sweden'
 role:       co-organizer and speaker
 links:
@@ -201,16 +201,16 @@ _by Andreas Lööw_
 I will say talk about proof-producing Verilog code generator that can translate HOL circuit to Verilog circuits. I will also present a verified processor developed with the help of this code generator, and how we with the help of the verified CakeML compiler have built verified computer systems (so called verified stacks) based on this processor. If there is time, I will also mention future research plans.
 
 ## <a name="alejandro">DPella: A programming framework for differential privacy with accuracy</a>
-_Alejandro Russo_
+_by Alejandro Russo_
 
 Abstract TBA
 
 ## <a name="dave">TBA</a>
-_Dave Sands_
+_by Dave Sands_
 
 Title and abstract TBA
 
 ## <a name="sandro">Workshop: Experience outside the box</a>
 _by Sandro Stucki_
 
-A workshop by and for FM:ers about experiences collected outside our primary research activities.  Have you always wanted or learn more about popular science communication, cross-disciplinary collaborations, AI, bird watching, improvisational theater, or single malt whiskey?  Well, you might not be alone.  Let's share our experiences and come up with new project ideas outside the ∀∃-box.
+A workshop by and for FM:ers about experiences collected outside our primary research activities.  Have you always wanted or learn more about popular science communication, cross-disciplinary collaborations, AI, bird watching, improvisational theater, or single malt whiskey?  Well, you might not be alone.  Let's share our experiences and brainstorm project ideas outside the FM-box.
