@@ -14,10 +14,12 @@ layout: default
   </span>
   {{ content }}
 
+  {% if page.links.size > 0 %}
   <h2>Links</h2>
   <ul>
     {% for link in page.links %}
     <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
     {% endfor %}
   </ul>
+  {% endif %}
 </div>

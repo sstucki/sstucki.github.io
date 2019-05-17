@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body>
+    <div class="container content">
+      <!-- Template for independent event: separate navigation -->
+      <div class="masthead">
+        <ul class="nav-list">
+          {% for sec in page.nav_list %}
+          <li><a href="{{ sec[1] }}">{{ sec[0] }}</a></li>
+          {% endfor %}
+        </ul>
+        <h2 class="masthead-title">
+          <a href="{{ page.url }}" title="Home">{{ page.short }}</a>
+        </h2>
+      </div>
+
+      <div class="post">
+        <h1 class="page-title">
+          <a href="{% if page.event-url.size > 0 %}{{ page.event-url }}{% else %}{{ page.url }}{% endif %}">
+            {{ page.title }}
+          </a>
+        </h1>
+        <span class="post-date">
+          {% if page.event-date.size > 0 %}{{ page.event-date }}{% else %}{{
+          page.date | date_to_long_string }}{% endif %}, {{ page.location }}.
+        </span>
+        {{ content }}
+
+        {% if page.links.size > 0 %}
+        <h2>Links</h2>
+        <ul>
+          {% for link in page.links %}
+          <li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+
+      <div class="footer">
+        <p>
+          &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+        </p>
+      </div>
+    </div>
+
+  </body>
+</html>
