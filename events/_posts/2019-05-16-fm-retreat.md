@@ -2,7 +2,7 @@
 layout:     indep-event
 title:      'Formal Methods Division Retreat &ndash; Lysekil 2019'
 short:      "FM Retreat '19"
-event-date: '23 &amp; 24 May 2019'
+event-date: '23 &ndash; 24 May 2019'
 event-url:  http://www.cse.chalmers.se/~sandros/fm-retreat-2019/
 location:   'at Strandflickornas Havshotell in Lysekil, Sweden'
 role:       co-organizer and speaker
@@ -28,7 +28,7 @@ We will be staying at Strandflickornas Havshotell in Lysekil:
 
 ## Travel
 
-A bus will pick us up from Chalmers in the morning on Thursday, 23 May, approximately **7.30am**. The bus will leave from ["Kopparbunkern" (the climbing gym at campus, next to our building)](https://goo.gl/maps/WUeWtyK3XAYZedTU6) on Thursday, and will (most likely) return us to Järntorget, which is the location of the CSE summer party which takes place in the evening of Friday, 24 May.
+A bus will pick us up from Chalmers in the morning on Thursday, 23 May, at **7:30am sharp**. The bus will leave from ["Kopparbunkern" (the climbing gym at campus, next to our building)](https://goo.gl/maps/WUeWtyK3XAYZedTU6) on Thursday, and will (most likely) return us to Järntorget, which is the location of the CSE summer party which takes place in the evening of Friday, 24 May.
 
 If you are only attending the first day and want to return to Gothenburg using public transport, the closest bus stop is [Havets hus (280m from the hotel)](https://goo.gl/maps/nCwUP4LN8vsrmYYS6).  Bus 841 will take you [all the way to downtown Gothenburg](https://goo.gl/maps/bZH6P4QEzs1zGGC99).
 
@@ -39,8 +39,7 @@ On recommendation, we will dine at [Märtas Mat](http://martasmat.se). They will
 
 ## Sea Kayaking
 
-Details to be announced later.
-
+Make sure to bring an extra set of outdoor/sports clothing (e.g. a thin windproof jacket).
 
 # <a name="program">Program</a>
 
@@ -59,10 +58,10 @@ Preliminary schedule
 |       | Sólrún: <a href="#solrun">Generating better examples for neural network verification techniques</a>         |
 |       | Magnus: <a href="#magnus">New Project on Verified Cyber Physical Systems</a>                                |
 | 10:45 | Break                                                                                                       |
-| 11:00 | *Session 2:* HOL & Dave (3x20min)                                                                    |
+| 11:00 | *Session 2:* HOL (3x20min)                                                                    |
 |       | Oskar: <a href="#oskar">Verification of an interactive theorem prover for HOL</a>                           |
 |       | Simon: <a href="#simon">Automating Higher-Order Logic</a>                                                   |
-|       | Dave: <a href="#dave">TBA</a>                                                                               |
+|       | Andreas: <a href="#andreas">Hardware development in HOL4 for verified stacks</a>                                                                               |
 | 12:00 | Lunch                                                                                                       |
 | 13:00 | *Session 3:* Longer talks (3x30min) |
 |       | Yehia: <a href="#yehia">Concurrency Theory and Collective Behaviour</a>                                     |
