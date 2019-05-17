@@ -15,7 +15,7 @@ nav_list:
   Abstracts: '#abstracts'
 ---
 
-The FM retreat on 23-24 May is now booked. There will be 20 people attending the event, with the first day also open to guests from other divisions.
+The FM retreat on 23-24 May is now booked. There will be 21 people attending the event, with the first day also open to guests from other divisions.
 
 # <a name="venue">Venue</a>
 
@@ -107,6 +107,7 @@ _by Moa Johansson_
 
 Combining machine learning and reasoning is an emerging trend in AI research. I recently attended the AITP (AI in theorem proving) conference and spotted some interesting topics.
 
+
 ## <a name="simon">Automating Higher-Order Logic</a>
 _by Simon Robillard_
 
@@ -121,6 +122,7 @@ In September this year, Hira Syeda from Data61 Australia will join our Formal Me
 In this short talk, I'll introduce the topic of the WASP Expedition Project and outline what the Chalmers side (Hira and I) will contribute to the project.
 
 The project is a collaboration between Chalmers and KTH. David Broman is the co-PI at KTH. Elias Castegren (from Uppsala) is David Broman's postdoc on the project.
+
 
 ## <a name="wolfgang">We can work it out - Personal perspectives on software verification</a>
 _by Wolfgang Ahrendt_
@@ -137,10 +139,12 @@ In the first part of this talk, I will introduce the SydTV tool which validates 
 
 The time taken to execute a program is normally considered to be a property of the final binary rather than the source code. Some programs have essential timing constraints, which ought to be checked by some kind of analysis. In the second part of this talk, I will show how the SydTV translation analysis can be reused to support a timing analysis on the seL4 binary. This design permits the timing analysis to make use of type information from the source language, as well as specific guidance provided at the source level by the kernel developers.
 
+
 ## <a name="hanaa">Designing privacy aware software systems</a>
 _by Hanaa Alshareef_
 
 As the General Data Protection Regulation (GDPR) within the European Union came into effect, designing privacy preserving systems is becoming a necessity for practitioners. There are many technical challenges that accompany GDPR compliance. In context of system design, verifying that an architectural design is compliant with the regulations can be a hard task for engineers. Providing a privacy aware system which guarantees that an architectural design embodies regulation-oriented principles such as the right to be forgotten, or collecting and disclosing based on individual’s consent, address that challenge for engineers.
+
 
 ## <a name="yehia">Concurrency Theory and Collective Behaviour</a>
 _by Yehia Abd Alrahman_
@@ -152,30 +156,36 @@ Namely, I will try to answer the following questions:
  - Why the design of a collective behaviour is challenging?
  - What do we need to be able to design a collective behaviour?
 
+
 ## <a name="gerardo">My Research Interests: Past, Present and Future</a>
 _by Gerardo Schneider_
 
 A very high-level overview about my research interests over time, with a wish list on what I would like to do in the future.
 
-## <a name="nir">## <a name="">Synthesis From Temporal Specifications</a>
+
+## <a name="nir">Synthesis From Temporal Specifications</a>
 _by Nir Piterman_
 
 In this give the background for the idea of synthesis, the automatic production of designs from their temporal logic specifications.  We are interested in reactive systems, systems that continuously interact with other programs, users, or their environment and specifications in linear temporal logic.  Classical solutions to synthesis use either two player games or tree automata. I will give a short introduction to the technique of using two player games for synthesis.  If time permits, I will talk about some of newer results and how people are using this kind of synthesis in practice.
+
 
 ## <a name="oskar">Verification of an interactive theorem prover for HOL</a>
 _by Oskar Abrahamsson_
 
 This talk will be about my work towards a verified implementation of an interactive theorem prover for higher-order logic. The theorem prover I am building is based on HOL Light which is implemented in the LCF-style. I will talk about: (i) what it means for a theorem prover to be LCF-style; (ii) what has been done towards the new theorem prover; and (iii) what needs to be done.
 
+
 ## <a name="claudia">Reasoning upon security of the Cloud via Description Logics</a>
 _by Claudia Cauli_
 
 Description Logics are, for the most part, a family of decidable fragments of First Order Logic; descending from knowledge representation formalisms and database systems, but also being close relatives of modal logics. Thanks to their model-theoretic semantics, practical decision procedures have been developed to solve inference problems such as: consistency, subsumption, entailment, instance retrieval, and query answering; all reducible to knowledge base satisfiability. In my research, I aim to use Description Logics to model, verify, and reason upon security of Cloud services. The impact of such an application could be substantial in software development as it might aid the automation of security tasks - such as threat modelling and risk assessment - that are difficult to be done without the expertise of a security engineer. Many “hows” have to be answered here: How could DLs be exploited to model the Cloud? How could DLs be made expressive enough to give a faithful depiction of the Cloud and precise answers when queried? How could modelling via DLs be used to express, infer, and identify vulnerabilities to security threats?
 
+
 ## <a name="quentin">Efficient functional priority queues</a>
 _by Quentin Ladeveze_
 
 This presentation will focus on two functional implementations of priority queues. Based on an analogy with a specific representation of integers, the first implementation can support the insert operation in constant time. The second implementation bootstraps the first one to allow us to find the minimal element of a queue and to merge two queues in constant time.
+
 
 ## <a name="marco">A type-system for Transient Information-Flow Control</a>
 _by Marco Vassena_
@@ -186,7 +196,7 @@ Recently discovered attacks like Spectre, Meltdown and Foreshadow rely on transi
 ## <a name="koen">Proof-guided quantifier instantiation for SMT</a>
 _by Koen Claessen_
 
-SMT-solvers solve problems by working with /underapproximations/ (expressed in SAT) that are successively /strengthened/ during proof search. This technique works well for specific theories such as equality, numbers, and arrays, but has worked less well for more general concepts such as full first-order quantification. In this talk, I report on my ongoing work of using /overapproximations/ (which are also expressed in SAT) and successive /weakening/ during proof search instead! This results in a proof-guided abstraction refinement for computing relevant instances of quantifiers in an SMT-setting. Initial results show that the new method greatly outperforms existing heuristics and methods for quantifier instantiation in SMT-solvers, at least for pure first-order problems with only quantification and no extra theories.
+SMT-solvers solve problems by working with _underapproximations_ (expressed in SAT) that are successively _strengthened_ during proof search. This technique works well for specific theories such as equality, numbers, and arrays, but has worked less well for more general concepts such as full first-order quantification. In this talk, I report on my ongoing work of using _overapproximations_ (which are also expressed in SAT) and successive _weakening_ during proof search instead! This results in a proof-guided abstraction refinement for computing relevant instances of quantifiers in an SMT-setting. Initial results show that the new method greatly outperforms existing heuristics and methods for quantifier instantiation in SMT-solvers, at least for pure first-order problems with only quantification and no extra theories.
 
 
 ## <a name="solrun">Generating better examples for neural network verification techniques</a>
@@ -194,21 +204,24 @@ _by Sólrún Einarsdóttir_
 
 Abstract TBA
 
- (short talk)
+
 ## <a name="andreas">Hardware development in HOL4 for verified stacks</a>
 _by Andreas Lööw_
 
 I will say talk about proof-producing Verilog code generator that can translate HOL circuit to Verilog circuits. I will also present a verified processor developed with the help of this code generator, and how we with the help of the verified CakeML compiler have built verified computer systems (so called verified stacks) based on this processor. If there is time, I will also mention future research plans.
+
 
 ## <a name="alejandro">DPella: A programming framework for differential privacy with accuracy</a>
 _by Alejandro Russo_
 
 Abstract TBA
 
+
 ## <a name="dave">TBA</a>
 _by Dave Sands_
 
 Title and abstract TBA
+
 
 ## <a name="sandro">Workshop: Experience outside the box</a>
 _by Sandro Stucki_
