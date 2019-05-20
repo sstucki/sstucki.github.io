@@ -5,7 +5,7 @@ short:      "FM Retreat '19"
 event-date: '23 &ndash; 24 May 2019'
 event-url:  http://www.cse.chalmers.se/~sandros/fm-retreat-2019/
 location:   'at Strandflickornas Havshotell in Lysekil, Sweden'
-role:       co-organizer and speaker
+role:       co-organizer
 links:
   Strandflickorna: 'https://strandflickorna.com/en/'
   Märtas Mat:      'http://martasmat.se'
@@ -15,7 +15,8 @@ nav_list:
   Abstracts: '#abstracts'
 ---
 
-The FM retreat on 23-24 May is now booked. There will be 21 people attending the event, with the first day also open to guests from other divisions.
+The FM retreat on 23&ndash;24 May is now booked. There will be 21 people attending the event, with the first day also open to guests from other divisions.
+
 
 # <a name="venue">Venue</a>
 
@@ -26,6 +27,9 @@ We will be staying at Strandflickornas Havshotell in Lysekil:
   * Website: <https://strandflickorna.com/en/>
   * Map: <https://goo.gl/maps/NqQkkkeUZjyJ5Rx66>
 
+There are some spa/sauna facilities at the hotel. Don't forget to bring swimwear if you're planning to use these.
+
+
 ## Travel
 
 A bus will pick us up from Chalmers in the morning on Thursday, 23 May, at **7:30am sharp**. The bus will leave from ["Kopparbunkern" (the climbing gym at campus, next to our building)](https://goo.gl/maps/WUeWtyK3XAYZedTU6) on Thursday, and will (most likely) return us to Järntorget, which is the location of the CSE summer party which takes place in the evening of Friday, 24 May.
@@ -35,15 +39,18 @@ If you are only attending the first day and want to return to Gothenburg using p
 
 ## Dinner
 
-On recommendation, we will dine at [Märtas Mat](http://martasmat.se). They will prepare a set 3-course dinner for us, using what’s in season and fresh for the day (they have been notified about your dietary restrictions).
+On recommendation, we will dine at [Märtas Mat](http://martasmat.se). They will prepare a set 3-course dinner for us, using what's in season and fresh for the day (they have been notified about your dietary restrictions).
+
 
 ## Sea Kayaking
 
 Make sure to bring an extra set of outdoor/sports clothing (e.g. a thin windproof jacket).
 
+
 # <a name="program">Program</a>
 
 Preliminary schedule
+
 
 ## Thursday 23 May
 
@@ -100,6 +107,7 @@ Preliminary schedule
 
 
 # <a name="abstracts">Talk Abstracts</a>
+
 
 ## <a name="moa">Trends in AI and Theorem Proving</a>
 _by Moa Johansson_
@@ -213,7 +221,9 @@ I will say talk about proof-producing Verilog code generator that can translate 
 ## <a name="alejandro">DPella: A programming framework for differential privacy with accuracy</a>
 _by Alejandro Russo_
 
-Abstract TBA
+Differential privacy offers a formal framework for reasoning about privacy and accuracy of computations on private data.  It also offers a rich set of building blocks for constructing data analyses.  When carefully calibrated, these analyses simultaneously guarantee privacy of the individuals contributing their data and accuracy of their results for inferring useful properties about the population.  One important building block for differential privacy are composition theorems, which allow multiple differentially private data analyses to be composed together with a graceful degradation of the privacy and accuracy parameters.  The compositional nature of differential privacy has motivated the design and implementation of several programming languages aimed at helping a data analyst in programming differentially private data analyses.  However, most of the programming languages for differential privacy proposed so far provide support for reasoning about privacy but not for reasoning about accuracy of data analyses.  To overcome this limitation, in this work we present DPella, a programming framework providing data analysts with support for reasoning about privacy, accuracy and their trade-offs.  DPella is implemented as a domain specific language in the functional programming language Haskell.  The distinguished feature of DPella is a novel component which statically tracks the accuracy of different data analyses.  In order to make tighter accuracy estimations, this component leverages information-flow control techniques, in the form of taint analysis, for automatically inferring statistical independence of the different noise quantities added for guaranteeing privacy.  We show the flexibility of our approach by implementing classical counting queries (e.g., CDFs) found in the literature and how DPella exposes the trade-offs between privacy and accuracy.  Furthermore, we use DPella to analyze hierarchical counting queries (like those done by Census Bureaus), where accuracy have different constrains per level and data analysts should figure out the best manner to trade-off privacy to meet the accuracy requirements.
+
+This is a work-in-progress in collaboration with Elisabet Lobo Vesga, Marco Gaboardi and Gilles Barthe.
 
 
 ## <a name="dave">TBA</a>
