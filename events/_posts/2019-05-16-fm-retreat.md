@@ -63,28 +63,30 @@ Preliminary schedule
 | 09:45 | *Session 1:* Applications of FM (3x20min)                                                                   |
 |       | Moa: <a href="#moa">Trends in AI and Theorem Proving</a>                                                    |
 |       | Sólrún: <a href="#solrun">Generating better examples for neural network verification techniques</a>         |
-|       | Magnus: <a href="#magnus">New Project on Verified Cyber Physical Systems</a>                                |
+|       | Sandro: <a href="#sandro">Formal Biochemistry</a>                                                           |
 | 10:45 | Break                                                                                                       |
-| 11:00 | *Session 2:* HOL (3x20min)                                                                    |
+| 11:00 | *Session 2:* HOL (3x20min)                                                                                  |
 |       | Oskar: <a href="#oskar">Verification of an interactive theorem prover for HOL</a>                           |
 |       | Simon: <a href="#simon">Automating Higher-Order Logic</a>                                                   |
-|       | Andreas: <a href="#andreas">Hardware development in HOL4 for verified stacks</a>                                                                               |
+|       | Andreas: <a href="#andreas">Hardware development in HOL4 for verified stacks</a>                            |
 | 12:00 | Lunch                                                                                                       |
-| 13:00 | *Session 3:* Longer talks (3x30min) |
+| 13:00 | *Session 3:* Nir's group and Koen (4x20min)                                                                 |
 |       | Yehia: <a href="#yehia">Concurrency Theory and Collective Behaviour</a>                                     |
 |       | Nir: <a href="#nir">Synthesis From Temporal Specifications</a>                                              |
+|       | *"Bensträckare"* (10min)                                                                                    |
+|       | Claudia: <a href="#claudia">Reasoning upon security of the Cloud via Description Logics</a>                 |
 |       | Koen: <a href="#koen">Proof-guided quantifier instantiation for SMT</a>                                     |
 | 14.30 | Coffee                                                                                                      |
-| 15:00 | *Session 4:* Collaboration and Background (3x20min)                                                          |
-|       | Gerardo: <a href="#gerardo">My Research Interests: Past, Present and Future</a>                             |
-|       | Sandro: <a href="#sandro">Workshop: Experience outside the box</a>                                          |
-|       | Wolfgang: <a href="#wolfgang">We can work it out &ndash; Personal perspectives on software verification</a> |
-| 16:00 | Break                                                                                                       |
-| 16:15 | *Session 5:* Security (3x20min) |
-|       | Claudia: <a href="#claudia">Reasoning upon security of the Cloud via Description Logics</a>                 |
+| 15:00 | *Session 4:* Security and Cyber Physical Systems (3x20min)                                                  |
 |       | Marco: <a href="#marco">A type-system for Transient Information-Flow Control</a>                            |
 |       | Alejandro: <a href="#alejandro">DPella: A programming framework for differential privacy with accuracy</a>  |
-| 17:15 | Relax                                                                                                       |
+|       | Magnus: <a href="#magnus">New Project on Verified Cyber Physical Systems</a>                                |
+| 16:00 | Break                                                                                                       |
+| 16:15 | *Session 5:* Collaboration and Background (2x20min + 30min)                                                 |
+|       | Gerardo: <a href="#gerardo">My Research Interests: Past, Present and Future</a>                             |
+|       | Wolfgang: <a href="#wolfgang">We can work it out &ndash; Personal perspectives on software verification</a> |
+|       | Workshop: <a href="#workshop">Experience outside the box</a>                                                |
+| 17:25 | Relax                                                                                                       |
 | 19:00 | Dinner at Märtas Mat                                                                                        |
 
 
@@ -232,7 +234,12 @@ _by Dave Sands_
 Title and abstract TBA
 
 
-## <a name="sandro">Workshop: Experience outside the box</a>
+## <a name="sandro">Formal Biochemistry</a>
 _by Sandro Stucki_
+
+For biochemists, Chemical Reaction Networsk (CRNs) and Rule-Based Models (RBMs) are two formalisms for describing biochemical systems through a finite set of rewrite rules.  For computer scientists they instead known as Petri Nets and Graph Transformation Systems (GTS).  In this talk, I will show how these seemingly simple formalisms can be used to model biochemical processes and, more generally, combinatorially complex stochastic processes with a dynamic network structure.  If time permits, I'll present some preliminary work on geometrically enhanced RBMs and the automated generation of rate-equations and ODEs tracking higher-order statistics from a large class of rule-based systems.
+
+## <a name="workshop">Workshop: Experience outside the box</a>
+_lead by Sandro Stucki_
 
 A workshop by and for FM:ers about experiences collected outside our primary research activities.  Have you always wanted or learn more about popular science communication, cross-disciplinary collaborations, AI, bird watching, improvisational theater, or single malt whiskey?  Well, you might not be alone.  Let's share our experiences and brainstorm project ideas outside the FM-box.
