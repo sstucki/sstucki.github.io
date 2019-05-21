@@ -27,7 +27,9 @@ We will be staying at Strandflickornas Havshotell in Lysekil:
   * Website: <https://strandflickorna.com/en/>
   * Map: <https://goo.gl/maps/NqQkkkeUZjyJ5Rx66>
 
-There are some spa/sauna facilities at the hotel. Don't forget to bring swimwear if you're planning to use these.
+There are some spa/sauna facilities at the hotel. Don't forget to bring swimwear if you're planning to use these!
+
+The meeting room has a projector with a **HDMI** interface (bring your own adapter) as well as a flip chart.
 
 
 ## Travel
@@ -59,7 +61,7 @@ Preliminary schedule
 | 07:15 | Bus arrives at [Kopparbunkern (climbing gym)](https://goo.gl/maps/WUeWtyK3XAYZedTU6)                        |
 | 07:30 | Bus departs for Lysekil                                                                                     |
 | 09:00 | Arrival + coffe                                                                                             |
-| 09:30 | Pair introductions                                                                                          |
+| 09:30 | <a href="#intros">Pair introductions</a>                                                                                          |
 | 09:45 | *Session 1:* Applications of FM (3x20min)                                                                   |
 |       | Moa: <a href="#moa">Trends in AI and Theorem Proving</a>                                                    |
 |       | Sólrún: <a href="#solrun">Generating better examples for neural network verification techniques</a>         |
@@ -227,19 +229,41 @@ Differential privacy offers a formal framework for reasoning about privacy and a
 
 This is a work-in-progress in collaboration with Elisabet Lobo Vesga, Marco Gaboardi and Gilles Barthe.
 
-
-## <a name="dave">TBA</a>
-_by Dave Sands_
-
-Title and abstract TBA
-
-
 ## <a name="sandro">Formal Biochemistry</a>
 _by Sandro Stucki_
 
-For biochemists, Chemical Reaction Networsk (CRNs) and Rule-Based Models (RBMs) are two formalisms for describing biochemical systems through a finite set of rewrite rules.  For computer scientists they instead known as Petri Nets and Graph Transformation Systems (GTS).  In this talk, I will show how these seemingly simple formalisms can be used to model biochemical processes and, more generally, combinatorially complex stochastic processes with a dynamic network structure.  If time permits, I'll present some preliminary work on geometrically enhanced RBMs and the automated generation of rate-equations and ODEs tracking higher-order statistics from a large class of rule-based systems.
+To biologists, Chemical Reaction Networsk (CRNs) and Rule-Based Models (RBMs) are formalisms for describing biochemical systems.  To computer scientists, they are instead known as Petri Nets and Graph Transformation Systems (GTSs).  In this talk, I will show how these simple and elegant formalisms can be used to model biochemical processes and, more generally, combinatorially complex stochastic processes with a dynamic network structure.  If time permits, I'll present some preliminary work on geometrically enhanced RBMs and the automated generation of rate-equations and ODEs tracking higher-order statistics from a large class of rule-based systems.
 
 ## <a name="workshop">Workshop: Experience outside the box</a>
 _lead by Sandro Stucki_
 
 A workshop by and for FM:ers about experiences collected outside our primary research activities.  Have you always wanted or learn more about popular science communication, cross-disciplinary collaborations, AI, bird watching, improvisational theater, or single malt whiskey?  Well, you might not be alone.  Let's share our experiences and brainstorm project ideas outside the FM-box.
+
+
+# <a name="intros">Pair introductions</a>
+
+Each speaker will be introduced by another speaker according to the table below.
+
+At the beginning of the meeting, there will be 15 minutes reserved
+for interviews. For each pair of speakers (*A* and *B*),
+
+  - in the first half of the 15 min, speaker *A* interviews speaker *B*;
+  - in the second half of the 15 min, speaker *B* interviews speaker *A*.
+
+Later, before *A* is gives their talk, *B* introduces *A*; and vice versa.
+
+The interviewer is to ask questions that provide material for the introduction. We recommend taking some notes and trying to find something fun / previously unknown / interesting to say about the interviewee.
+
+The introductions should be only 1&ndash;2 minutes long, but the whole process of interviewing and introducing others is meant to be an (awkward but) interesting way to get to know each other.
+
+| *A* (introduces *B*) | *B* (introduces *A*)      |
+|----------------------|---------------------------|
+| Alejandro Russo      | Oskar Abrahamsson         |
+| Gerardo Schneider    | Marco Vassena             |
+| Koen Claessen        | Andreas Lööw              |
+| Magnus Myreen        | Sólrún Halla Einarsdóttir |
+| Moa Johansson        | Claudia Cauli             |
+| Nir Piterman         | Hanaa Alshareef           |
+| Thomas Sewell        | Simon Robillard           |
+| Wolfgang Ahrendt     | Quentin Ladeveze          |
+| Yehia Abd Alrahman   | Sandro Stucki             |
