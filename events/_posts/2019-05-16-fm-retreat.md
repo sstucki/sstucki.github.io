@@ -138,7 +138,7 @@ The project is a collaboration between Chalmers and KTH. David Broman is the co-
 ## <a name="wolfgang">We can work it out - Personal perspectives on software verification</a>
 _by Wolfgang Ahrendt_
 
-Abstract TBA
+In the light of a new composition of the FM group, I want to give a selective overview of my research profile, highlighting topics where I anticipate connections to other people in the group.
 
 
 ## <a name="thomas">Binary Correctness and Applications for OS Software</a>
