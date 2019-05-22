@@ -61,10 +61,10 @@ Preliminary schedule
 | 07:15 | Bus arrives at [Kopparbunkern (climbing gym)](https://goo.gl/maps/WUeWtyK3XAYZedTU6)                        |
 | 07:30 | Bus departs for Lysekil                                                                                     |
 | 09:00 | Arrival + coffe                                                                                             |
-| 09:30 | <a href="#intros">Pair introductions</a>                                                                                          |
+| 09:30 | <a href="#intros">Pair introductions</a>                                                                    |
 | 09:45 | *Session 1:* Applications of FM (3x20min)                                                                   |
 |       | Moa: <a href="#moa">Trends in AI and Theorem Proving</a>                                                    |
-|       | Sólrún: <a href="#solrun">Generating better examples for neural network verification techniques</a>         |
+|       | Sólrún: <a href="#solrun">Neural network verification</a>                                                   |
 |       | Sandro: <a href="#sandro">Formal Biochemistry</a>                                                           |
 | 10:45 | Break                                                                                                       |
 | 11:00 | *Session 2:* HOL (3x20min)                                                                                  |
@@ -210,10 +210,10 @@ _by Koen Claessen_
 SMT-solvers solve problems by working with _underapproximations_ (expressed in SAT) that are successively _strengthened_ during proof search. This technique works well for specific theories such as equality, numbers, and arrays, but has worked less well for more general concepts such as full first-order quantification. In this talk, I report on my ongoing work of using _overapproximations_ (which are also expressed in SAT) and successive _weakening_ during proof search instead! This results in a proof-guided abstraction refinement for computing relevant instances of quantifiers in an SMT-setting. Initial results show that the new method greatly outperforms existing heuristics and methods for quantifier instantiation in SMT-solvers, at least for pure first-order problems with only quantification and no extra theories.
 
 
-## <a name="solrun">Generating better examples for neural network verification techniques</a>
+## <a name="solrun">Neural network verification</a>
 _by Sólrún Einarsdóttir_
 
-Abstract TBA
+As neural networks have gained popularity due to their effectiveness in performing diverse tasks, and found applications in safety-critical systems such as autonomous vehicles, there is a growing demand for safety guarantees about their behavior. I will describe some recent approaches to verification of neural networks and possible next steps.
 
 
 ## <a name="andreas">Hardware development in HOL4 for verified stacks</a>
