@@ -97,9 +97,7 @@ Preliminary schedule
 |       | Sandro: <a href="#sandro">Formal Biochemistry</a>                                                           |
 |       | Gerardo: <a href="#gerardo">My Research Interests: Past, Present and Future</a>                             |
 |       | Wolfgang: <a href="#wolfgang">We can work it out &ndash; Personal perspectives on software verification</a> |
-| 17:05 | Short break                                                                                                 |
-| 17:15 | Workshop: <a href="#workshop">Experience outside the box</a>                                                |
-| 17:45 | Break                                                                                                       |
+| 17:05 | Break                                                                                                       |
 | 19:00 | Dinner at Märtas Mat                                                                                        |
 
 
@@ -108,8 +106,10 @@ Preliminary schedule
 | Time  | Activity                                                                          |
 |-------|-----------------------------------------------------------------------------------|
 | 07:30 | Breakfast                                                                         |
-| 08:30 | ~~Sea kayaking~~ Sauna/relax                                                      |
-| 11:30 | Break                                                                             |
+| 09:00 | ~~Sea kayaking~~ Sauna/relax                                                      |
+| 11:00 | Break                                                                             |
+| 11:15 | Workshop: <a href="#workshop">Experience outside the box</a>                      |
+| 11:45 | Break                                                                             |
 | 12:00 | Lunch                                                                             |
 | 13:00 | *Session 6* (3x20min, chair: Wolfgang)                                            |
 |       | Hanaa: <a href="#hanaa">Designing privacy aware software systems</a>              |
@@ -117,7 +117,7 @@ Preliminary schedule
 |       | Thomas: <a href="#thomas">Binary Correctness and Applications for OS Software</a> |
 | 14:00 | Break                                                                             |
 | 14:15 | *Session 7:* Division meeting (50min)                                             |
-| 15:15 | Break                                                                             |
+| 15:00 | Break                                                                            |
 | 15:30 | Bus returns to GBG                                                                |
 
 
