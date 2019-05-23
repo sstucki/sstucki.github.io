@@ -17,6 +17,16 @@ nav_list:
 
 The FM retreat on 23&ndash;24 May is now booked. There will be 21 people attending the event, with the first day also open to guests from other divisions.
 
+<div style="text-align:center">
+<p style="font-weight:bold;font-size:15pt">
+5pm workshop:<br/>
+<a href="https://www.menti.com/9my3pdheh5">
+add your topics to the word cloud at<br/>
+https://www.menti.com/9my3pdheh5
+</a>
+</p>
+<p><a href="https://www.mentimeter.com/s/644e6e4b85ce2b09bbe5faa3e0da22bf/e83df55d4fa7">Click here to see the results</a></p>
+</div>
 
 # <a name="venue">Venue</a>
 
