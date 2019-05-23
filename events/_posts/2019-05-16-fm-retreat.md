@@ -70,35 +70,36 @@ Preliminary schedule
 |-------|-------------------------------------------------------------------------------------------------------------|
 | 07:15 | Bus arrives at [Kopparbunkern (climbing gym)](https://goo.gl/maps/WUeWtyK3XAYZedTU6)                        |
 | 07:30 | Bus departs for Lysekil                                                                                     |
-| 09:00 | Arrival + coffe                                                                                             |
-| 09:30 | <a href="#intros">Pair introductions</a>                                                                    |
-| 09:45 | *Session 1:* Applications of FM (3x20min)                                                                   |
+| 09:30 | Arrival + coffe                                                                                             |
+| 09:45 | <a href="#intros">Pair introductions</a>                                                                    |
+| 10:00 | *Session 1:* Applications of FM (2x20min, chair: Sandro)                                                    |
 |       | Moa: <a href="#moa">Trends in AI and Theorem Proving</a>                                                    |
 |       | Sólrún: <a href="#solrun">Neural network verification</a>                                                   |
-|       | Sandro: <a href="#sandro">Formal Biochemistry</a>                                                           |
-| 10:45 | Break                                                                                                       |
-| 11:00 | *Session 2:* HOL (3x20min)                                                                                  |
+| 10:40 | Break                                                                                                       |
+| 10:50 | *Session 2:* HOL (3x20min, chair: Dave)                                                                     |
 |       | Oskar: <a href="#oskar">Verification of an interactive theorem prover for HOL</a>                           |
 |       | Simon: <a href="#simon">Automating Higher-Order Logic</a>                                                   |
 |       | Andreas: <a href="#andreas">Hardware development in HOL4 for verified stacks</a>                            |
-| 12:00 | Lunch                                                                                                       |
-| 13:00 | *Session 3:* Nir's group and Koen (4x20min)                                                                 |
+| 11:50 | Lunch                                                                                                       |
+| 13:00 | *Session 3:* Nir's group and Koen (4x20min, chair: Gerardo)                                                 |
 |       | Yehia: <a href="#yehia">Concurrency Theory and Collective Behaviour</a>                                     |
 |       | Nir: <a href="#nir">Synthesis From Temporal Specifications</a>                                              |
 |       | *"Bensträckare"* (10min)                                                                                    |
 |       | Claudia: <a href="#claudia">Reasoning upon security of the Cloud via Description Logics</a>                 |
 |       | Koen: <a href="#koen">Proof-guided quantifier instantiation for SMT</a>                                     |
 | 14.30 | Coffee                                                                                                      |
-| 15:00 | *Session 4:* Security and Cyber Physical Systems (3x20min)                                                  |
+| 15:00 | *Session 4:* Security and Cyber Physical Systems (3x20min, chair: Koen)                                     |
 |       | Marco: <a href="#marco">A type-system for Transient Information-Flow Control</a>                            |
 |       | Alejandro: <a href="#alejandro">DPella: A programming framework for differential privacy with accuracy</a>  |
 |       | Magnus: <a href="#magnus">New Project on Verified Cyber Physical Systems</a>                                |
 | 16:00 | Break                                                                                                       |
-| 16:15 | *Session 5:* Collaboration and Background (2x20min + 30min)                                                 |
+| 16:15 | *Session 5:* Collaboration and Background (2x20min + 10min, chair: Nir)                                     |
+|       | Sandro: <a href="#sandro">Formal Biochemistry</a>                                                           |
 |       | Gerardo: <a href="#gerardo">My Research Interests: Past, Present and Future</a>                             |
 |       | Wolfgang: <a href="#wolfgang">We can work it out &ndash; Personal perspectives on software verification</a> |
-|       | Workshop: <a href="#workshop">Experience outside the box</a>                                                |
-| 17:25 | Relax                                                                                                       |
+| 17:05 | Short break                                                                                                 |
+| 17:15 | Workshop: <a href="#workshop">Experience outside the box</a>                                                |
+| 17:45 | Break                                                                                                       |
 | 19:00 | Dinner at Märtas Mat                                                                                        |
 
 
@@ -107,15 +108,15 @@ Preliminary schedule
 | Time  | Activity                                                                          |
 |-------|-----------------------------------------------------------------------------------|
 | 07:30 | Breakfast                                                                         |
-| 08:30 | Sea kayaking including fika break                                                 |
+| 08:30 | ~~Sea kayaking~~ Sauna/relax                                                      |
 | 11:30 | Break                                                                             |
 | 12:00 | Lunch                                                                             |
-| 13:00 | *Session 6* (3x20min)                                                             |
+| 13:00 | *Session 6* (3x20min, chair: Wolfgang)                                            |
 |       | Hanaa: <a href="#hanaa">Designing privacy aware software systems</a>              |
 |       | Quentin: <a href="#quentin">Efficient functional priority queues</a>              |
 |       | Thomas: <a href="#thomas">Binary Correctness and Applications for OS Software</a> |
 | 14:00 | Break                                                                             |
-| 14:15 | *Session 7:* Division meeting                                                     |
+| 14:15 | *Session 7:* Division meeting (50min)                                             |
 | 15:15 | Break                                                                             |
 | 15:30 | Bus returns to GBG                                                                |
 
