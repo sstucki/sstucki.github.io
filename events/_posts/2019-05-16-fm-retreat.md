@@ -17,16 +17,6 @@ nav_list:
 
 The FM retreat on 23&ndash;24 May is now booked. There will be 21 people attending the event, with the first day also open to guests from other divisions.
 
-<div style="text-align:center">
-<p style="font-weight:bold;font-size:15pt">
-5pm workshop:<br/>
-<a href="https://www.menti.com/9my3pdheh5">
-add your topics to the word cloud at<br/>
-https://www.menti.com/9my3pdheh5
-</a>
-</p>
-<p><a href="https://www.mentimeter.com/s/644e6e4b85ce2b09bbe5faa3e0da22bf/e83df55d4fa7">Click here to see the results</a></p>
-</div>
 
 # <a name="venue">Venue</a>
 
@@ -250,6 +240,9 @@ _lead by Sandro Stucki_
 
 A workshop by and for FM:ers about experiences collected outside our primary research activities.  Have you always wanted or learn more about popular science communication, cross-disciplinary collaborations, AI, bird watching, improvisational theater, or single malt whiskey?  Well, you might not be alone.  Let's share our experiences and brainstorm project ideas outside the FM-box.
 
+ * [~~Add your topics to the word cloud at
+https://www.menti.com/9my3pdheh5~~ (closed)](https://www.menti.com/9my3pdheh5)
+ * [Click here to see the results](https://www.mentimeter.com/s/644e6e4b85ce2b09bbe5faa3e0da22bf/e83df55d4fa7)
 
 # <a name="intros">Pair introductions</a>
 
