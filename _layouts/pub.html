@@ -10,7 +10,8 @@ layout: default
   </h1>
   <span class="pub-meta">
     {{ page.authors | array_to_sentence_string }}.
-    {{ page.howpublished }}, {{ page.copynote }}.
+    {{ page.howpublished }}{% if page.copynote.size > 0 %},
+    {{ page.copynote }}{% endif %}.
   </span>
   {{ content }}
 
