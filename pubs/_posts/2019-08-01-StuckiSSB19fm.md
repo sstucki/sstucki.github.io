@@ -6,13 +6,11 @@ authors:
   - César Sánchez
   - Gerardo Schneider
   - Borzoo Bonakdarpour
-howpublished: "arXiv:1906.08731 [cs.LO]"
-#howpublished: "In <em>Proceedings of the 3rd World Congress on Formal Methods</em>, (FM '19)"
-#copynote: 'in LNCS, volume ?, pp. ?&ndash;?, Springer, 2019'
+howpublished: "In <em>Proceedings of the 3rd World Congress on Formal Methods</em> (FM '19)"
+copynote: 'in LNCS, volume 11800, pp. 406&ndash;424, Springer, 2019'
 links:
-  Preprint: https://arxiv.org/abs/1906.08731
-#  Extended version: https://arxiv.org/abs/1906.08731
-#  DOI: http://dx.doi.org/
+  DOI: http://dx.doi.org/10.1007/978-3-030-30942-8_25
+  Extended version: https://arxiv.org/abs/1906.08731
   BibTeX: /bib/StuckiSSB19fm.bib
   Artifact: https://github.com/sstucki/minion
 ---
