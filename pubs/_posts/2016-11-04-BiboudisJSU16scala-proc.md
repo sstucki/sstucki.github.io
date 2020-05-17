@@ -18,4 +18,4 @@ Scala is a general purpose programming language designed to express common progr
 
 The Scala Symposium is a forum for researchers and practitioners to share new ideas and results of interest to the Scala programming language community. We welcome a broad spectrum of research topics in many formats.
 
-See the [Scala'16 CFP]({{ site.baseurl }}/events/2016/05/23/scala16-cfp/) for more details.
+See the [Scala'16 CFP]({% post_url events/2016-05-23-scala16-cfp %}) for more details.
