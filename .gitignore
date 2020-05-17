@@ -3,6 +3,9 @@ _gh_pages
 _site
 .ruby-version
 
+# Don't fix versions of Ruby Gems
+Gemfile.lock
+
 # Numerous always-ignore extensions
 *.diff
 *.err
