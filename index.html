@@ -48,7 +48,7 @@ title: Home
   <ul>
     {% for pub in site.categories.pubs %}
     <li>
-      <a href="{{ pub.url }}">{{ pub.title }}</a>,
+      <a href="{{ pub.url }}">{{ pub.title }}</a>.
       {{ pub.authors | array_to_sentence_string }}. {{ pub.howpublished }}.
       <ul class="related-links">
         {% for link in pub.links %}
