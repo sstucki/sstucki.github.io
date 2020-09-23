@@ -7,13 +7,14 @@ authors:
   - Ricardo Honorato-Zimmer
   - Sandro Stucki
 howpublished: 'To be presented at the <em>18th International Conference on Computational Methods in Systems Biology</em> (CMSB 2020)'
-#copynote: 'in LNCS, volume ???, pp. ?&ndash;?, Springer, 2020'
+#copynote: 'in LNBI, volume 12314, pp. 1&ndash;23, Springer, 2020'
 copynote: 'preprint in CoRR, arXiv:2008.11066 [cs.LO]'
 links:
-#  DOI: http://dx.doi.org/?
+#  DOI: https://dx.doi.org/10.1007/978-3-030-60327-4_1
   Preprint: https://arxiv.org/abs/2008.11066
   BibTeX: /bib/DanosHHS20cmsb.bib
   Web app: https://rhz.github.io/fragger
+  Slides: /public/slides/cmsb20-stucki.pdf
 ---
 
 ## Abstract

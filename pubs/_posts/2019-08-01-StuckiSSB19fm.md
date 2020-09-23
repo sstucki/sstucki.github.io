@@ -12,6 +12,7 @@ links:
   DOI: http://dx.doi.org/10.1007/978-3-030-30942-8_25
   Extended version: https://arxiv.org/abs/1906.08731
   BibTeX: /bib/StuckiSSB19fm.bib
+  Slides: /public/slides/fm19-stucki.pdf
   Artifact: https://github.com/sstucki/minion
 ---
 
