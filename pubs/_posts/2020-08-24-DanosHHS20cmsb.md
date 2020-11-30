@@ -6,9 +6,9 @@ authors:
   - Tobias Heindel
   - Ricardo Honorato-Zimmer
   - Sandro Stucki
-howpublished: 'To be presented at the <em>18th International Conference on Computational Methods in Systems Biology</em> (CMSB 2020)'
-#copynote: 'in LNCS/LNBI, volume 12314, pp. 3&ndash;26, Springer, 2020'
-copynote: 'preprint in CoRR, arXiv:2008.11066 [cs.LO]'
+howpublished: 'In <em>Proceedings of the 18th International Conference on Computational Methods in Systems Biology</em> (CMSB 2020)'
+copynote: 'in LNCS/LNBI, volume 12314, pp. 3&ndash;26, Springer, 2020'
+#copynote: 'preprint in CoRR, arXiv:2008.11066 [cs.LO]'
 links:
   DOI: https://doi.org/10.1007/978-3-030-60327-4_1
   Preprint: https://arxiv.org/abs/2008.11066
