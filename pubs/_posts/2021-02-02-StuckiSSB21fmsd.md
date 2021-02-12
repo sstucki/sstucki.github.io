@@ -6,7 +6,7 @@ authors:
   - César Sánchez
   - Gerardo Schneider
   - Borzoo Bonakdarpour
-howpublished: "<em>Formal Methods in System Design</em>"
+howpublished: "In <em>Formal Methods in System Design</em>"
 copynote: 'Springer, 2021'
 links:
   DOI (open access): https://doi.org/10.1007/s10703-020-00358-w
