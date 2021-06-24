@@ -62,7 +62,7 @@ title: Home
 
 <div class="page">
   <h1 class="page-title"><a name="teaching">Teaching</a></h1>
-  <p>I am currently teaching two courses at Chalmers/Gothenburg university:</p>
+  <p>In the past, I taught two courses at Chalmers/Gothenburg university:</p>
   <ul>
     {% for course in site.data.teaching %}
     <li>
@@ -76,7 +76,20 @@ title: Home
 </div>
 
 <div class="page">
-  <h1 class="page-title"><a name="events">Events and Service</a></h1>
+  <h1 class="page-title"><a name="events">Events and Community Service</a></h1>
+
+  <h3>Service</h3>
+  <ul>
+    {% assign service-cats = site.data.service | group_by: 'role' %}
+    {% for cat in service-cats %}
+    <li>{{ cat.name }}:
+    {% for task in cat.items %}
+    <a href="{{ task.url }}">{{ task.short }}&nbsp;{{ task.year }}</a>{% if forloop.last %}.{% else %},{% endif %}
+    {% endfor %}
+    </li>
+    {% endfor %}
+  </ul>
+  <h3>Events</h3>
   <ul>
     {% for ev in site.categories.events %}
     <li>

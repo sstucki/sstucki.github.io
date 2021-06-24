@@ -19,12 +19,12 @@ permalink:        pretty
 
 # Page navigation list
 nav_list:
-  About:          /#about
-  Publications:   /#publications
-  Teaching:       /#teaching
-  Events:         /#events
-#  Blog:           /blog/
-#  Archive:        /blog/archive/
+  About:                   /#about
+  Publications:            /#publications
+  Teaching:                /#teaching
+  'Events &amp; Service':  /#events
+#  Blog:                   /blog/
+#  Archive:                /blog/archive/
 
 # Custom vars
 version:          1.0.0

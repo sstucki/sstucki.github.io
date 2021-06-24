@@ -1,0 +1,95 @@
+- name: '7th ACM SIGPLAN International Symposium on Scala'
+  short: Scala
+  year: 2016
+  url: https://conf.researchr.org/track/scala-2016/scala-2016
+  role: Organizer and PC co-chair
+
+- name: '20th International Conference on Generative Programming: Concepts & Experiences'
+  short: GPCE
+  year: 2021
+  url: https://conf.researchr.org/home/gpce-2021
+  role: PC member
+
+- name: '24th ACM SIGPLAN International Conference on Functional Programming'
+  short: ICFP
+  year: 2019
+  url: https://icfp19.sigplan.org/
+  role: ERC member
+
+- name: '8th ACM SIGPLAN International Symposium on Scala'
+  short: Scala
+  year: 2017
+  url: https://conf.researchr.org/track/scala-2017/scala-2017-papers
+  role: Steering committee member
+
+- name: '9th ACM SIGPLAN International Symposium on Scala'
+  short: Scala
+  year: 2018
+  url: https://conf.researchr.org/track/scala-2018/scala-2018-papers
+  role: Steering committee member
+
+- name: '10th ACM SIGPLAN International Symposium on Scala'
+  short: Scala
+  year: 2019
+  url: https://2019.ecoop.org/home/scala-2019
+  role: Steering committee member
+
+- name: 'Journal of Functional Programming'
+  short: JFP
+  year: '2017 &ndash; 2018'
+  url: https://www.cambridge.org/core/journals/journal-of-functional-programming
+  role: Journal reviewer
+
+- name: 'IEEE/ACM Transactions on Computational Biology and Bioinformatics'
+  short: TCBB
+  year: 2018
+  url: https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8857
+  role: Journal reviewer
+
+- name: '47th ACM SIGPLAN Symposium on Principles of Programming Languages'
+  short: POPL
+  year: 2020
+  url: https://popl20.sigplan.org/
+  role: Sub-reviewer
+
+- name: '27th European Symposium on Programming'
+  short: ESOP
+  year: 2018
+  url: https://etaps.org/2018/esop
+  role: Sub-reviewer
+
+- name: '3rd World Congress on Formal Methods'
+  short: FM
+  year: 2019
+  url: https://formalmethods2019.inesctec.pt/
+  role: Sub-reviewer
+
+- name: '19th International Conference on Foundations of Software Science and Computation Structures'
+  short: FoSSaCS
+  year: 2016
+  url: https://etaps.org/2016/fossacs
+  role: Sub-reviewer
+
+- name: 'ML Family Workshop'
+  short: ML
+  year: 2016
+  url: http://www.mlworkshop.org/workshops/ml2016
+  role: Sub-reviewer
+
+- name: '23rd EACSL Annual Conference on Computer Science Logic and 29th Annual ACM/IEEE Symposium on Logic in Computer Science'
+  short: CSL-LICS
+  year: 2014
+  url: http://lics.siglog.org/csl-lics14/
+  role: Sub-reviewer
+
+- name: '7th International Symposium on High-level Parallel Programming and Applications'
+  short: HLPP
+  year: 2014
+  url: https://sites.google.com/site/hlpp2014amsterdam/
+  role: Sub-reviewer
+
+- name: '19th ACM SIGPLAN International Conference on Functional Programming'
+  short: ICFP
+  year: 2014
+  url: http://icfpconference.org/icfp2014/
+  role: Sub-reviewer
