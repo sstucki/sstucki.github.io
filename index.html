@@ -76,9 +76,9 @@ title: Home
 </div>
 
 <div class="page">
-  <h1 class="page-title"><a name="events">Events and Community Service</a></h1>
+  <h1 class="page-title"><a name="events">Events and Service</a></h1>
 
-  <h3>Service</h3>
+  <h3>Community Service</h3>
   <ul>
     {% assign service-cats = site.data.service | group_by: 'role' %}
     {% for cat in service-cats %}
@@ -89,7 +89,7 @@ title: Home
     </li>
     {% endfor %}
   </ul>
-  <h3>Events</h3>
+  <h3>Events and Talks</h3>
   <ul>
     {% for ev in site.categories.events %}
     <li>
