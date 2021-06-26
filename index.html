@@ -84,7 +84,7 @@ title: Home
     {% for cat in service-cats %}
     <li>{{ cat.name }}:
     {% for task in cat.items %}
-    <a href="{{ task.url }}">{{ task.short }}&nbsp;{{ task.year }}</a>{% if forloop.last %}.{% else %},{% endif %}
+    <a href="{{ task.url }}" title="{{ task.name }}">{{ task.short }}&nbsp;{{ task.year }}</a>{% if forloop.last %}.{% else %},{% endif %}
     {% endfor %}
     </li>
     {% endfor %}
@@ -93,8 +93,8 @@ title: Home
   <ul>
     {% for ev in site.categories.events %}
     <li>
-      <a href="{{ ev.url }}">{{ ev.short }}</a> on
-      {{ ev.event-date }}, {{ ev.location }} ({{ev.role}}).
+      <a href="{{ ev.url }}" title="{{ ev.title }}">{{ ev.short }}</a>
+      on {{ ev.event-date }}, {{ ev.location }} ({{ev.role}}).
     </li>
     {% endfor %}
   </ul>
