@@ -8,10 +8,12 @@ howpublished: "To be published in <em>Proceedings of the ACM on Programming Lang
 copynote:
   'pp. 69:1&ndash;69:30, ACM, 2021'
 links:
-#  DOI (open access): https://doi.org/10.1145/3473574
-  Preprint: http://arxiv.org/abs/2107.01883
-  BibTeX: /bib/StuckiG21icfp.bib
+  DOI (OA): https://doi.org/10.1145/3473574
+  Extended version: http://arxiv.org/abs/2107.01883
   Artifact: https://zenodo.org/record/5060213
+  BibTeX: /bib/StuckiG21icfp.bib
+  Slides: /public/slides/icfp21-stucki.pdf
+  Video: https://youtu.be/rf3OtJ_Uz_o
 usemathjax: true
 ---
 
