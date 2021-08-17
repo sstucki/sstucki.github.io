@@ -52,7 +52,10 @@ title: Home
       {{ pub.authors | array_to_sentence_string }}. {{ pub.howpublished }}.
       <ul class="related-links">
         {% for link in pub.links %}
-        <li><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></li>
+        {% assign link-text = link[0] |
+          replace: '(OA)', '<img class="oa" src="public/oa.png" />' |
+          replace: '(open access)', '<img class="oa" src="public/oa.png" />' %}
+        <li><a href="{{ link[1] }}" target="_blank">{{ link-text }}</a></li>
         {% endfor %}
       </ul>
     </li>

@@ -18,7 +18,10 @@ layout: default
   <h2>Links</h2>
   <ul>
     {% for link in page.links %}
-    <li><a href="{{ link[1] }}" target="_blank">{{ link[0] }}</a></li>
+    {% assign link-text = link[0] |
+      replace: '(OA)', '<img class="oa" src="/public/oa.png" />' |
+      replace: '(open access)', '<img class="oa" src="/public/oa.png" />' %}
+    <li><a href="{{ link[1] }}" target="_blank">{{ link-text }}</a></li>
     {% endfor %}
   </ul>
 </div>
