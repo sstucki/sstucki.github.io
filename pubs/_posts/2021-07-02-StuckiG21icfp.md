@@ -4,11 +4,12 @@ title:   'A Theory of Higher-Order Subtyping with Type Intervals'
 authors:
   - Sandro Stucki
   - Paolo G. Giarrusso
-howpublished: "To be published in <em>Proceedings of the ACM on Programming Languages</em>, 5(ICFP)"
+howpublished: "In <em>Proceedings of the ACM on Programming Languages</em>, 5(ICFP)"
 copynote:
   'pp. 69:1&ndash;69:30, ACM, 2021'
 links:
-  DOI (OA): https://doi.org/10.1145/3473574
+  '<span style="white-space:nowrap">DOI (OA)</span>':
+    https://doi.org/10.1145/3473574
   Extended version: http://arxiv.org/abs/2107.01883
   Artifact: https://zenodo.org/record/5060213
   BibTeX: /bib/StuckiG21icfp.bib
