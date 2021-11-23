@@ -59,6 +59,12 @@
   url: https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8857
   role: Journal reviewer
 
+- title: '31st European Symposium on Programming'
+  short: ESOP
+  year: 2022
+  url: https://etaps.org/2022/esop
+  role: Sub-reviewer
+
 - title: '34th IEEE Computer Security Foundations Symposium'
   short: CSF
   year: 2021
