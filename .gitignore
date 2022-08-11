@@ -6,6 +6,9 @@ _site
 # Don't fix versions of Ruby Gems
 Gemfile.lock
 
+# Ignore local builds
+/vendor/
+
 # Numerous always-ignore extensions
 *.diff
 *.err
