@@ -4,6 +4,11 @@
   url: https://conf.researchr.org/track/scala-2016/scala-2016
   role: Organizer and PC co-chair
 
+- title: '33nd Nordic Workshop on Programming Theory'
+  short: NWPT
+  year: 2022
+  url: https://nwpt.w.uib.no/
+  role: PC member
 
 - title: '32nd Nordic Workshop on Programming Theory'
   short: NWPT
@@ -23,10 +28,10 @@
   url: https://icfp19.sigplan.org/
   role: ERC member
 
-- title: '8th ACM SIGPLAN International Symposium on Scala'
+- title: '10th ACM SIGPLAN International Symposium on Scala'
   short: Scala
-  year: 2017
-  url: https://conf.researchr.org/track/scala-2017/scala-2017-papers
+  year: 2019
+  url: https://2019.ecoop.org/home/scala-2019
   role: Steering committee member
 
 - title: '9th ACM SIGPLAN International Symposium on Scala'
@@ -35,15 +40,15 @@
   url: https://conf.researchr.org/track/scala-2018/scala-2018-papers
   role: Steering committee member
 
-- title: '10th ACM SIGPLAN International Symposium on Scala'
+- title: '8th ACM SIGPLAN International Symposium on Scala'
   short: Scala
-  year: 2019
-  url: https://2019.ecoop.org/home/scala-2019
+  year: 2017
+  url: https://conf.researchr.org/track/scala-2017/scala-2017-papers
   role: Steering committee member
 
 - title: 'Journal of Logical and Algebraic Methods in Programming'
   short: JLAMP
-  year: 2021
+  year: 2021 &ndash; 2022
   url: https://www.journals.elsevier.com/journal-of-logical-and-algebraic-methods-in-programming
   role: Journal reviewer
 
@@ -58,6 +63,12 @@
   year: 2018
   url: https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8857
   role: Journal reviewer
+
+- title: '24th International Conference on Verification, Model Checking, and Abstract Interpretation'
+  short: VMCAI
+  year: 2023
+  url: https://popl23.sigplan.org/home/VMCAI-2023
+  role: Sub-reviewer
 
 - title: '31st European Symposium on Programming'
   short: ESOP
