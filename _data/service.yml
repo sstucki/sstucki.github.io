@@ -4,6 +4,18 @@
   url: https://conf.researchr.org/track/scala-2016/scala-2016
   role: Organizer and PC co-chair
 
+- title: '34th Nordic Workshop on Programming Theory'
+  short: NWPT
+  year: 2023
+  url: https://conf.researchr.org/home/nwpt-2023
+  role: PC member
+
+- title: 'ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences'
+  short: GPCE
+  year: 2023
+  url: https://2023.splashcon.org/home/gpce-2023
+  role: PC member
+
 - title: '33nd Nordic Workshop on Programming Theory'
   short: NWPT
   year: 2022
@@ -63,6 +75,18 @@
   year: 2018
   url: https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8857
   role: Journal reviewer
+
+- title: '30th Static Analysis Symposium'
+  short: SAS
+  year: 2023
+  url: https://conf.researchr.org/home/sas-2023
+  role: Sub-reviewer
+
+- title: '35th International Conference on Computer Aided Verification'
+  short: CAV
+  year: 2023
+  url: http://www.i-cav.org/2023/
+  role: Sub-reviewer
 
 - title: '24th International Conference on Verification, Model Checking, and Abstract Interpretation'
   short: VMCAI
