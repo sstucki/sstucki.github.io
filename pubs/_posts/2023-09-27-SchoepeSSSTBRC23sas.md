@@ -10,10 +10,10 @@ authors:
   - Pauline Bolignano
   - Franco Raimondi
   - Bor-Yuh Evan Chang
-howpublished: "To be presented at the <em>30th Static Analysis Symposium</em> (SAS 2023)"
-#copynote:
-#  'in LNCS, volume N, pp. start&ndash;end, Springer, 2023'
+howpublished: "In <em>Proceedings of the 30th International Symposium on Static Analysis</em> (SAS 2023)"
+copynote: 'in LNCS, volume 14284, pp. 460&ndash;484, Springer, 2023'
 links:
+  DOI: https://doi.org/10.1007/978-3-031-44245-2_20
   Preprint: https://www.amazon.science/publications/lifting-on-demand-analysis-to-higher-order-languages
   BibTeX: /bib/SchoepeSSSTBRC23sas.bib
 ---
