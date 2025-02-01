@@ -371,12 +371,12 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 4em;
 }
 
-/* Blog post or page title */
+/* Blog post, page and publication titles */
 .page-title,
 .page-title a,
 .post-title,
-.pub-title,
 .post-title a,
+.pub-title,
 .pub-title a {
   color: #303030;
 }
@@ -384,6 +384,13 @@ tbody tr:nth-child(odd) th {
 .post-title,
 .pub-title {
   margin-top: 0;
+}
+
+/* Publication year */
+.pub-year,
+.pub-year a {
+  color: #505050;
+  font-size: .9rem;
 }
 
 /* Meta data line below post or pub title */

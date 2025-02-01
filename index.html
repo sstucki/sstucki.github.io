@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="page">
-  <h1 class="page-title"><a name="about">About</a></h1>
+  <h1 class="page-title"><a name="about" href="#about">About</a></h1>
 
   <img src="public/me.jpg" class="profile"/>
 
@@ -56,9 +56,13 @@ title: Home
 </div>
 
 <div class="page">
-  <h1 class="page-title"><a name="publications">Research and Publications</a></h1>
+  <h1 class="page-title"><a name="publications" href="#publications">Research and Publications</a></h1>
+  {% assign pubs_per_year = site.categories.pubs | group_by_exp: "pub", "pub.date | date: '%Y'" %}
+  {% for year_pubs in pubs_per_year %}
+  {% assign pub_year = year_pubs.name %}
+  <h4 class="pub-year"><a name="publications-{{ pub_year }}" href="#publications-{{ pub_year }}">{{ pub_year }}</a></h4>
   <ul>
-    {% for pub in site.categories.pubs %}
+    {% for pub in year_pubs.items %}
     <li>
       <a href="{{ pub.url }}">{{ pub.title }}</a>.
       {{ pub.authors | array_to_sentence_string }}. {{ pub.howpublished }}.
@@ -73,10 +77,11 @@ title: Home
     </li>
     {% endfor %}
   </ul>
+  {% endfor %}
 </div>
 
 <div class="page">
-  <h1 class="page-title"><a name="teaching">Teaching</a></h1>
+  <h1 class="page-title"><a name="teaching" href="#teaching">Teaching</a></h1>
   <p>In the past, I taught two courses at Chalmers/Gothenburg university:</p>
   <ul>
     {% for course in site.data.teaching %}
@@ -91,9 +96,9 @@ title: Home
 </div>
 
 <div class="page">
-  <h1 class="page-title"><a name="events">Events and Service</a></h1>
+  <h1 class="page-title"><a name="events" href="#events">Events and Service</a></h1>
 
-  <h3>Community Service</h3>
+  <h3>Service</h3>
   <ul>
     {% assign service-cats = site.data.service | group_by: 'role' %}
     {% for cat in service-cats %}
