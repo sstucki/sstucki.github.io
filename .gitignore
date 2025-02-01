@@ -1,12 +1,12 @@
 # Ignore docs files
 _gh_pages
 _site
-.ruby-version
 
 # Don't fix versions of Ruby Gems
 Gemfile.lock
 
 # Ignore local builds
+.bundle
 /vendor/
 
 # Numerous always-ignore extensions
