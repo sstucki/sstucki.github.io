@@ -4,6 +4,24 @@
   url: https://conf.researchr.org/track/scala-2016/scala-2016
   role: Organizer and PC co-chair
 
+- title: '28th European Conference on Artificial Intelligence'
+  short: ECAI
+  year: 2025
+  url: https://ecai2025.org/
+  role: PC member
+
+- title: 'ACM SIGPLAN International Conference on Generative Programming: Concepts & Experiences'
+  short: GPCE
+  year: 2025
+  url: https://2025.ecoop.org/home/gpce-2025
+  role: PC member
+
+- title: '35th Nordic Workshop on Programming Theory'
+  short: NWPT
+  year: 2023
+  url: https://nwpt24.github.io/
+  role: PC member
+
 - title: '27th European Conference on Artificial Intelligence'
   short: ECAI
   year: 2024
